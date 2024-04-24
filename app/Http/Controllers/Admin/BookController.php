@@ -40,8 +40,8 @@ class BookController extends Controller
      */
     public function store(BookFormRequest $request)
     {
-        $thumbnail_link = $request->file('thumbnail')->store('public/thumbnails');
-        $book_link = $request->file('book')->store('public/books');
+        $thumbnail_link = $request->file('thumbnail')->store('thumbnails','public');
+        $book_link = $request->file('book')->store('books','public');
         $book = Book::create([
             'title'=>$request->title,
             'description'=>$request->description,

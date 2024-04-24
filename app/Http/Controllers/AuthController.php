@@ -1,0 +1,27 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Http\Requests\LoginRequest;
+use Illuminate\Support\Facades\Auth;
+
+class AuthController extends Controller
+{
+    public function login(){
+        return view('pages.auth.login');
+    }
+    public function doLogin(LoginRequest $request){
+        $credentials = $request->validated();
+        if(Auth::attempt($credentials)){
+            $request->session()->regenerate();
+            return redirect()->intended(route('admin.index'));
+        }
+        return back()->withErrors([
+            'email' => 'Identifiants Incorrect'
+        ])->onlyInput('email');
+    }
+    public function logout(){
+        Auth::logout();
+        return to_route('login')->with('success','Vous êtes deconnectés');
+    }
+}

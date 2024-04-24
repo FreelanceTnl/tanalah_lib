@@ -11,6 +11,8 @@ class HomeController extends Controller
     //
     public function index(){
         $books=Book::with('publisher','tags')->orderBy('created_at','desc')->limit(4)->get();
-        dd($books);
+        return view('pages.front.index',[
+            'books'=>$books
+        ]);
     }
 }
