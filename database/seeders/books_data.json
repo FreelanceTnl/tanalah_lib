@@ -1,0 +1,3105 @@
+{
+    "books": [
+        {
+            "title": "3D temps r\u00e9el avec Irrlicht",
+            "size": 2.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1414021-3d-temps-reel-avec-irrlicht",
+            "book_link": "/book_files/5690-3d-temps-reel-avec-irrlicht.pdf",
+            "thumbnail_link": "/thumbnails/5690-3d-temps-reel-avec-irrlicht.pdf.png"
+        },
+        {
+            "title": "3ds Max pour les Z\u00e9ros !",
+            "size": 2.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1364316-3ds-max-pour-les-zeros",
+            "book_link": "/book_files/240465-3ds-max-pour-les-zeros.pdf",
+            "thumbnail_link": "/thumbnails/240465-3ds-max-pour-les-zeros.pdf.png"
+        },
+        {
+            "title": "A la d\u00e9couverte d'UNIX (FreeBSD)",
+            "size": 15.6,
+            "course_link": "https://openclassrooms.com/fr/courses/295121-a-la-decouverte-dunix-freebsd",
+            "book_link": "/book_files/273305-a-la-decouverte-d-unix-freebsd.pdf",
+            "thumbnail_link": "/thumbnails/273305-a-la-decouverte-d-unix-freebsd.pdf.png"
+        },
+        {
+            "title": "A la d\u00e9couverte de l'al\u00e9atoire et des probabilit\u00e9s",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1389636-a-la-decouverte-de-laleatoire-et-des-probabilites",
+            "book_link": "/book_files/133680-a-la-decouverte-de-l-aleatoire-et-des-probabilites.pdf",
+            "thumbnail_link": "/thumbnails/133680-a-la-decouverte-de-l-aleatoire-et-des-probabilites.pdf.png"
+        },
+        {
+            "title": "Acc\u00e8s s\u00e9curis\u00e9 \u00e0 des documents",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1210576-acces-securise-a-des-documents",
+            "book_link": "/book_files/226111-acces-securise-a-des-documents.pdf",
+            "thumbnail_link": "/thumbnails/226111-acces-securise-a-des-documents.pdf.png"
+        },
+        {
+            "title": "Adapter son site au format mobile avec CSS3",
+            "size": 2.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1708611-adapter-son-site-au-format-mobile-avec-css3",
+            "book_link": "/book_files/701480-adapter-son-site-au-format-mobile-avec-css3.pdf",
+            "thumbnail_link": "/thumbnails/701480-adapter-son-site-au-format-mobile-avec-css3.pdf.png"
+        },
+        {
+            "title": "Adium",
+            "size": 3.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1432891-adium",
+            "book_link": "/book_files/320862-adium.pdf",
+            "thumbnail_link": "/thumbnails/320862-adium.pdf.png"
+        },
+        {
+            "title": "Administrez vos bases de donn\u00e9es avec MySQL",
+            "size": 7.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql",
+            "book_link": "/book_files/464494-administrez-vos-bases-de-donnees-avec-mysql.pdf",
+            "thumbnail_link": "/thumbnails/464494-administrez-vos-bases-de-donnees-avec-mysql.pdf.png"
+        },
+        {
+            "title": "Adopter un style de programmation clair avec le mod\u00e8le MVC",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1153831-adopter-un-style-de-programmation-clair-avec-le-modele-mvc",
+            "book_link": "/book_files/31452-adopter-un-style-de-programmation-clair-avec-le-modele-mvc.pdf",
+            "thumbnail_link": "/thumbnails/31452-adopter-un-style-de-programmation-clair-avec-le-modele-mvc.pdf.png"
+        },
+        {
+            "title": "Affichez le nombre de visiteurs connect\u00e9s",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1218971-affichez-le-nombre-de-visiteurs-connectes",
+            "book_link": "/book_files/14569-affichez-le-nombre-de-visiteurs-connectes.pdf",
+            "thumbnail_link": "/thumbnails/14569-affichez-le-nombre-de-visiteurs-connectes.pdf.png"
+        },
+        {
+            "title": "Aidez la science avec Folding@Home",
+            "size": 1.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1135586-aidez-la-science-avec-folding-home",
+            "book_link": "/book_files/35582-aidez-la-science-avec-folding-home.pdf",
+            "thumbnail_link": "/thumbnails/35582-aidez-la-science-avec-folding-home.pdf.png"
+        },
+        {
+            "title": "Ajouter des utilisateurs en ligne \u00e0 TYPSoft FTP Serveur",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1192026-ajouter-des-utilisateurs-en-ligne-a-typsoft-ftp-serveur",
+            "book_link": "/book_files/128507-ajouter-des-utilisateurs-en-ligne-a-typsoft-ftp-serveur.pdf",
+            "thumbnail_link": "/thumbnails/128507-ajouter-des-utilisateurs-en-ligne-a-typsoft-ftp-serveur.pdf.png"
+        },
+        {
+            "title": "Ajouter une ville et une r\u00e9gion \u00e0 M\u00e9di\u00e9val II : Total War",
+            "size": 1.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1295586-ajouter-une-ville-et-une-region-a-medieval-ii-total-war",
+            "book_link": "/book_files/634736-ajouter-une-ville-et-une-region-a-medieval-ii-total-war.pdf",
+            "thumbnail_link": "/thumbnails/634736-ajouter-une-ville-et-une-region-a-medieval-ii-total-war.pdf.png"
+        },
+        {
+            "title": "Algorithmique pour l'apprenti programmeur",
+            "size": 2,
+            "course_link": "https://openclassrooms.com/fr/courses/1467201-algorithmique-pour-lapprenti-programmeur",
+            "book_link": "/book_files/51781-algorithmique-pour-l-apprenti-programmeur.pdf",
+            "thumbnail_link": "/thumbnails/51781-algorithmique-pour-l-apprenti-programmeur.pdf.png"
+        },
+        {
+            "title": "Aligner ses formulaires sans tableaux",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1100756-aligner-ses-formulaires-sans-tableaux",
+            "book_link": "/book_files/33971-aligner-ses-formulaires-sans-tableaux.pdf",
+            "thumbnail_link": "/thumbnails/33971-aligner-ses-formulaires-sans-tableaux.pdf.png"
+        },
+        {
+            "title": "Allez plus loin avec les variables !",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/535674-allez-plus-loin-avec-les-variables",
+            "book_link": "/book_files/91013-allez-plus-loin-avec-les-variables.pdf",
+            "thumbnail_link": "/thumbnails/91013-allez-plus-loin-avec-les-variables.pdf.png"
+        },
+        {
+            "title": "Allocation dynamique en C - compl\u00e9ment",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1218846-allocation-dynamique-en-c-complement",
+            "book_link": "/book_files/249823-allocation-dynamique-en-c-complement.pdf",
+            "thumbnail_link": "/thumbnails/249823-allocation-dynamique-en-c-complement.pdf.png"
+        },
+        {
+            "title": "Am\u00e9liorez la visibilit\u00e9 de votre site gr\u00e2ce au r\u00e9f\u00e9rencement",
+            "size": 4.8,
+            "course_link": "https://openclassrooms.com/fr/courses/951117-ameliorez-la-visibilite-de-votre-site-grace-au-referencement",
+            "book_link": "/book_files/636399-ameliorez-la-visibilite-de-votre-site-grace-au-referencement.pdf",
+            "thumbnail_link": "/thumbnails/636399-ameliorez-la-visibilite-de-votre-site-grace-au-referencement.pdf.png"
+        },
+        {
+            "title": "Analysez des donn\u00e9es avec Excel",
+            "size": 14.7,
+            "course_link": "https://openclassrooms.com/fr/courses/825502-analysez-des-donnees-avec-excel",
+            "book_link": "/book_files/200966-analysez-des-donnees-avec-excel.pdf",
+            "thumbnail_link": "/thumbnails/200966-analysez-des-donnees-avec-excel.pdf.png"
+        },
+        {
+            "title": "Animation facile: les Blend Shapes",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1189181-animation-facile-les-blend-shapes",
+            "book_link": "/book_files/36258-animation-facile-les-blend-shapes.pdf",
+            "thumbnail_link": "/thumbnails/36258-animation-facile-les-blend-shapes.pdf.png"
+        },
+        {
+            "title": "Animez votre site avec CSS3 !",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/618887-animez-votre-site-avec-css3",
+            "book_link": "/book_files/496334-animez-votre-site-avec-css3.pdf",
+            "thumbnail_link": "/thumbnails/496334-animez-votre-site-avec-css3.pdf.png"
+        },
+        {
+            "title": "Apostille au MVC : les Delegate",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1278451-apostille-au-mvc-les-delegate",
+            "book_link": "/book_files/494891-apostille-au-mvc-les-delegate.pdf",
+            "thumbnail_link": "/thumbnails/494891-apostille-au-mvc-les-delegate.pdf.png"
+        },
+        {
+            "title": "Apprendre \u00e0 dessiner en 3D avec AutoCAD",
+            "size": 13.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1685896-apprendre-a-dessiner-en-3d-avec-autocad",
+            "book_link": "/book_files/408696-apprendre-a-dessiner-en-3d-avec-autocad.pdf",
+            "thumbnail_link": "/thumbnails/408696-apprendre-a-dessiner-en-3d-avec-autocad.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer avec Ada",
+            "size": 13.9,
+            "course_link": "https://openclassrooms.com/fr/courses/900279-apprenez-a-programmer-avec-ada",
+            "book_link": "/book_files/624389-apprendre-a-programmer-avec-ada.pdf",
+            "thumbnail_link": "/thumbnails/624389-apprendre-a-programmer-avec-ada.pdf.png"
+        },
+        {
+            "title": "Apprendre \u00e0 utiliser Doctrine",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1420176-apprendre-a-utiliser-doctrine",
+            "book_link": "/book_files/268920-apprendre-a-utiliser-doctrine.pdf",
+            "thumbnail_link": "/thumbnails/268920-apprendre-a-utiliser-doctrine.pdf.png"
+        },
+        {
+            "title": "Apprendre le TI-basic pas-\u00e0-pas",
+            "size": 1.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1336106-apprendre-le-ti-basic-pas-a-pas",
+            "book_link": "/book_files/122757-apprendre-le-ti-basic-pas-a-pas.pdf",
+            "thumbnail_link": "/thumbnails/122757-apprendre-le-ti-basic-pas-a-pas.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 colorier avec \"The GIMP\" !",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1232746-apprenez-a-colorier-avec-the-gimp",
+            "book_link": "/book_files/272419-apprenez-a-colorier-avec-the-gimp.pdf",
+            "thumbnail_link": "/thumbnails/272419-apprenez-a-colorier-avec-the-gimp.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 cr\u00e9er avec GIMP 2.8 !",
+            "size": 14.2,
+            "course_link": "https://openclassrooms.com/fr/courses/701942-apprenez-a-creer-avec-gimp-2-8",
+            "book_link": "/book_files/317520-apprenez-a-creer-avec-gimp-2-8.pdf",
+            "thumbnail_link": "/thumbnails/317520-apprenez-a-creer-avec-gimp-2-8.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 cr\u00e9er votre site web avec HTML5 et CSS3",
+            "size": 11.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3",
+            "book_link": "/book_files/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf",
+            "thumbnail_link": "/thumbnails/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 d\u00e9velopper en C#",
+            "size": 13.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1526901-apprenez-a-developper-en-c",
+            "book_link": "/book_files/523498-apprenez-a-developper-en-c.pdf",
+            "thumbnail_link": "/thumbnails/523498-apprenez-a-developper-en-c.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 mod\u00e9liser en 3D avec Autodesk Maya",
+            "size": 57.8,
+            "course_link": "https://openclassrooms.com/fr/courses/719237-apprenez-a-modeliser-en-3d-avec-autodesk-maya",
+            "book_link": "/book_files/228998-apprenez-a-modeliser-en-3d-avec-autodesk-maya.pdf",
+            "thumbnail_link": "/thumbnails/228998-apprenez-a-modeliser-en-3d-avec-autodesk-maya.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 monter votre ordinateur",
+            "size": 8.1,
+            "course_link": "https://openclassrooms.com/fr/courses/911038-apprenez-a-monter-votre-ordinateur",
+            "book_link": "/book_files/555186-apprenez-a-monter-votre-ordinateur.pdf",
+            "thumbnail_link": "/thumbnails/555186-apprenez-a-monter-votre-ordinateur.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en Actionscript 3",
+            "size": 13.6,
+            "course_link": "https://openclassrooms.com/fr/courses/2049191-apprenez-a-programmer-en-actionscript-3",
+            "book_link": "/book_files/684108-apprenez-a-programmer-en-actionscript-3.pdf",
+            "thumbnail_link": "/thumbnails/684108-apprenez-a-programmer-en-actionscript-3.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en C !",
+            "size": 9.7,
+            "course_link": "https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c",
+            "book_link": "/book_files/14189-apprenez-a-programmer-en-c.pdf",
+            "thumbnail_link": "/thumbnails/14189-apprenez-a-programmer-en-c.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en C# sur .NET",
+            "size": 5.5,
+            "course_link": "https://openclassrooms.com/fr/courses/218202-apprenez-a-programmer-en-c-sur-net",
+            "book_link": "/book_files/344102-apprenez-a-programmer-en-c-sur-net.pdf",
+            "thumbnail_link": "/thumbnails/344102-apprenez-a-programmer-en-c-sur-net.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en Java",
+            "size": 15.9,
+            "course_link": "https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java",
+            "book_link": "/book_files/10601-apprenez-a-programmer-en-java.pdf",
+            "thumbnail_link": "/thumbnails/10601-apprenez-a-programmer-en-java.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en Perl !",
+            "size": 1.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1601801-apprenez-a-programmer-en-perl",
+            "book_link": "/book_files/690631-apprenez-a-programmer-en-perl.pdf",
+            "thumbnail_link": "/thumbnails/690631-apprenez-a-programmer-en-perl.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en Python",
+            "size": 3.3,
+            "course_link": "https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python",
+            "book_link": "/book_files/223267-apprenez-a-programmer-en-python.pdf",
+            "thumbnail_link": "/thumbnails/223267-apprenez-a-programmer-en-python.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en TI-Basic !",
+            "size": 4.7,
+            "course_link": "https://openclassrooms.com/fr/courses/960281-apprenez-a-programmer-en-ti-basic",
+            "book_link": "/book_files/407892-apprenez-a-programmer-en-ti-basic.pdf",
+            "thumbnail_link": "/thumbnails/407892-apprenez-a-programmer-en-ti-basic.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 programmer en VB .NET",
+            "size": 8.8,
+            "course_link": "https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net",
+            "book_link": "/book_files/134798-apprenez-a-programmer-en-vb-net.pdf",
+            "thumbnail_link": "/thumbnails/134798-apprenez-a-programmer-en-vb-net.pdf.png"
+        },
+        {
+            "title": "Apprenez \u00e0 utiliser SolidWorks",
+            "size": 15.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1553986-apprenez-a-utiliser-solidworks",
+            "book_link": "/book_files/607698-apprenez-a-utiliser-solidworks.pdf",
+            "thumbnail_link": "/thumbnails/607698-apprenez-a-utiliser-solidworks.pdf.png"
+        },
+        {
+            "title": "Apprenez la programmation avec Scala",
+            "size": 2.2,
+            "course_link": "https://openclassrooms.com/fr/courses/409949-apprenez-la-programmation-avec-scala",
+            "book_link": "/book_files/320933-apprenez-la-programmation-avec-scala.pdf",
+            "thumbnail_link": "/thumbnails/320933-apprenez-la-programmation-avec-scala.pdf.png"
+        },
+        {
+            "title": "Apprenez la programmation fonctionnelle avec Haskell",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1385376-apprenez-la-programmation-fonctionnelle-avec-haskell",
+            "book_link": "/book_files/158953-apprenez-la-programmation-fonctionnelle-avec-haskell.pdf",
+            "thumbnail_link": "/thumbnails/158953-apprenez-la-programmation-fonctionnelle-avec-haskell.pdf.png"
+        },
+        {
+            "title": "Apprenez la sculpture digitale avec Pixologic ZBrush",
+            "size": 3.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1588701-apprenez-la-sculpture-digitale-avec-pixologic-zbrush",
+            "book_link": "/book_files/650016-apprenez-la-sculpture-digitale-avec-pixologic-zbrush.pdf",
+            "thumbnail_link": "/thumbnails/650016-apprenez-la-sculpture-digitale-avec-pixologic-zbrush.pdf.png"
+        },
+        {
+            "title": "Apprenez le BASIC Casio !",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1348446-apprenez-le-basic-casio",
+            "book_link": "/book_files/2585-apprenez-le-basic-casio.pdf",
+            "thumbnail_link": "/thumbnails/2585-apprenez-le-basic-casio.pdf.png"
+        },
+        {
+            "title": "Apprenez le fonctionnement des r\u00e9seaux TCP/IP",
+            "size": 9.7,
+            "course_link": "https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip",
+            "book_link": "/book_files/346829-apprenez-le-fonctionnement-des-reseaux-tcp-ip.pdf",
+            "thumbnail_link": "/thumbnails/346829-apprenez-le-fonctionnement-des-reseaux-tcp-ip.pdf.png"
+        },
+        {
+            "title": "Atomik Framework : un framework PHP simple et l\u00e9ger",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1221981-atomik-framework-un-framework-php-simple-et-leger",
+            "book_link": "/book_files/223562-atomik-framework-un-framework-php-simple-et-leger.pdf",
+            "thumbnail_link": "/thumbnails/223562-atomik-framework-un-framework-php-simple-et-leger.pdf.png"
+        },
+        {
+            "title": "Audacity : prise en main",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1191551-audacity-prise-en-main",
+            "book_link": "/book_files/34572-audacity-prise-en-main.pdf",
+            "thumbnail_link": "/thumbnails/34572-audacity-prise-en-main.pdf.png"
+        },
+        {
+            "title": "Autour de la fonction exponentielle et ses constructions",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1263566-autour-de-la-fonction-exponentielle-et-ses-constructions",
+            "book_link": "/book_files/382293-autour-de-la-fonction-exponentielle-et-ses-constructions.pdf",
+            "thumbnail_link": "/thumbnails/382293-autour-de-la-fonction-exponentielle-et-ses-constructions.pdf.png"
+        },
+        {
+            "title": "Avant-go\u00fbt du langage : une todo-list distribu\u00e9e",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1140511-avant-gout-du-langage-une-todo-list-distribuee",
+            "book_link": "/book_files/35183-avant-gout-du-langage-une-todo-list-distribuee.pdf",
+            "thumbnail_link": "/thumbnails/35183-avant-gout-du-langage-une-todo-list-distribuee.pdf.png"
+        },
+        {
+            "title": "Bases de traitement du signal",
+            "size": 1.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1491786-bases-de-traitement-du-signal",
+            "book_link": "/book_files/569036-bases-de-traitement-du-signal.pdf",
+            "thumbnail_link": "/thumbnails/569036-bases-de-traitement-du-signal.pdf.png"
+        },
+        {
+            "title": "Bien utiliser les sprites CSS",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1237726-bien-utiliser-les-sprites-css",
+            "book_link": "/book_files/268435-bien-utiliser-les-sprites-css.pdf",
+            "thumbnail_link": "/thumbnails/268435-bien-utiliser-les-sprites-css.pdf.png"
+        },
+        {
+            "title": "Bonnes pratiques javascript",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1183926-bonnes-pratiques-javascript",
+            "book_link": "/book_files/102952-bonnes-pratiques-javascript.pdf",
+            "thumbnail_link": "/thumbnails/102952-bonnes-pratiques-javascript.pdf.png"
+        },
+        {
+            "title": "Bruit de Perlin",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1289681-bruit-de-perlin",
+            "book_link": "/book_files/671455-bruit-de-perlin.pdf",
+            "thumbnail_link": "/thumbnails/671455-bruit-de-perlin.pdf.png"
+        },
+        {
+            "title": "Bruits et nombres al\u00e9atoires coh\u00e9rents",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1154861-bruits-et-nombres-aleatoires-coherents",
+            "book_link": "/book_files/68655-bruits-et-nombres-aleatoires-coherents.pdf",
+            "thumbnail_link": "/thumbnails/68655-bruits-et-nombres-aleatoires-coherents.pdf.png"
+        },
+        {
+            "title": "C++ : Bien choisir ses structures de donn\u00e9es",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1244291-c-bien-choisir-ses-structures-de-donnees",
+            "book_link": "/book_files/624658-c-bien-choisir-ses-structures-de-donnees.pdf",
+            "thumbnail_link": "/thumbnails/624658-c-bien-choisir-ses-structures-de-donnees.pdf.png"
+        },
+        {
+            "title": "[C++] D\u00e9boguer avec Code::Blocks",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1286896-c-deboguer-avec-code-blocks",
+            "book_link": "/book_files/544477-c-deboguer-avec-code-blocks.pdf",
+            "thumbnail_link": "/thumbnails/544477-c-deboguer-avec-code-blocks.pdf.png"
+        },
+        {
+            "title": "[C++] Les conversions de types",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1170641-c-les-conversions-de-types",
+            "book_link": "/book_files/100540-c-les-conversions-de-types.pdf",
+            "thumbnail_link": "/thumbnails/100540-c-les-conversions-de-types.pdf.png"
+        },
+        {
+            "title": "[C++] Les manipulateurs de flux",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1152521-c-les-manipulateurs-de-flux",
+            "book_link": "/book_files/31034-c-les-manipulateurs-de-flux.pdf",
+            "thumbnail_link": "/thumbnails/31034-c-les-manipulateurs-de-flux.pdf.png"
+        },
+        {
+            "title": "[C++] Les pointeurs sur fonctions",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1278941-c-les-pointeurs-sur-fonctions",
+            "book_link": "/book_files/178617-c-les-pointeurs-sur-fonctions.pdf",
+            "thumbnail_link": "/thumbnails/178617-c-les-pointeurs-sur-fonctions.pdf.png"
+        },
+        {
+            "title": "[C++] Les templates",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1159521-c-les-templates",
+            "book_link": "/book_files/36523-c-les-templates.pdf",
+            "thumbnail_link": "/thumbnails/36523-c-les-templates.pdf.png"
+        },
+        {
+            "title": "[C++] Ma\u00eetriser le compilateur g++",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1262861-c-maitriser-le-compilateur-g",
+            "book_link": "/book_files/499712-c-maitriser-le-compilateur-g.pdf",
+            "thumbnail_link": "/thumbnails/499712-c-maitriser-le-compilateur-g.pdf.png"
+        },
+        {
+            "title": "Calcul d'une expression math\u00e9matique",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1177331-calcul-dune-expression-mathematique",
+            "book_link": "/book_files/83576-calcul-d-une-expression-mathematique.pdf",
+            "thumbnail_link": "/thumbnails/83576-calcul-d-une-expression-mathematique.pdf.png"
+        },
+        {
+            "title": "Calculer une plage d'adresses avec la m\u00e9thode magique",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1258211-calculer-une-plage-dadresses-avec-la-methode-magique",
+            "book_link": "/book_files/357419-calculer-une-plage-d-adresses-avec-la-methode-magique.pdf",
+            "thumbnail_link": "/thumbnails/357419-calculer-une-plage-d-adresses-avec-la-methode-magique.pdf.png"
+        },
+        {
+            "title": "Centrer en CSS",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1293281-centrer-en-css",
+            "book_link": "/book_files/622587-centrer-en-css.pdf",
+            "thumbnail_link": "/thumbnails/622587-centrer-en-css.pdf.png"
+        },
+        {
+            "title": "Chiffrer des donn\u00e9es avec TrueCrypt",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1202276-chiffrer-des-donnees-avec-truecrypt",
+            "book_link": "/book_files/195225-chiffrer-des-donnees-avec-truecrypt.pdf",
+            "thumbnail_link": "/thumbnails/195225-chiffrer-des-donnees-avec-truecrypt.pdf.png"
+        },
+        {
+            "title": "Choisir les bons types de colonne SQL",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1225826-choisir-les-bons-types-de-colonne-sql",
+            "book_link": "/book_files/124692-choisir-les-bons-types-de-colonne-sql.pdf",
+            "thumbnail_link": "/thumbnails/124692-choisir-les-bons-types-de-colonne-sql.pdf.png"
+        },
+        {
+            "title": "Choisir une licence pour son tutoriel",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1193366-choisir-une-licence-pour-son-tutoriel",
+            "book_link": "/book_files/50275-choisir-une-licence-pour-son-tutoriel.pdf",
+            "thumbnail_link": "/thumbnails/50275-choisir-une-licence-pour-son-tutoriel.pdf.png"
+        },
+        {
+            "title": "Choisissez et/ou fabriquez votre c\u00e2ble RJ45",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1199836-choisissez-et-ou-fabriquez-votre-cable-rj45",
+            "book_link": "/book_files/177975-choisissez-et-ou-fabriquez-votre-cable-rj45.pdf",
+            "thumbnail_link": "/thumbnails/177975-choisissez-et-ou-fabriquez-votre-cable-rj45.pdf.png"
+        },
+        {
+            "title": "CodeIgniter, le framework au service des Z\u00e9ros",
+            "size": 2.1,
+            "course_link": "https://openclassrooms.com/fr/courses/82136-codeigniter-le-framework-au-service-des-zeros",
+            "book_link": "/book_files/370694-codeigniter-le-framework-au-service-des-zeros.pdf",
+            "thumbnail_link": "/thumbnails/370694-codeigniter-le-framework-au-service-des-zeros.pdf.png"
+        },
+        {
+            "title": "Comment contribuer \u00e0 un projet libre sans \u00e9crire une ligne de code ?",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1206566-comment-contribuer-a-un-projet-libre-sans-ecrire-une-ligne-de-code",
+            "book_link": "/book_files/213671-comment-contribuer-a-un-projet-libre-sans-ecrire-une-ligne-de-code.pdf",
+            "thumbnail_link": "/thumbnails/213671-comment-contribuer-a-un-projet-libre-sans-ecrire-une-ligne-de-code.pdf.png"
+        },
+        {
+            "title": "Comment cr\u00e9er un jeu vid\u00e9o ?",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1211856-comment-creer-un-jeu-video",
+            "book_link": "/book_files/267332-comment-creer-un-jeu-video.pdf",
+            "thumbnail_link": "/thumbnails/267332-comment-creer-un-jeu-video.pdf.png"
+        },
+        {
+            "title": "Comment faire une page ayant la m\u00eame hauteur que le navigateur ?",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1195496-comment-faire-une-page-ayant-la-meme-hauteur-que-le-navigateur",
+            "book_link": "/book_files/145147-comment-faire-une-page-ayant-la-meme-hauteur-que-le-navigateur.pdf",
+            "thumbnail_link": "/thumbnails/145147-comment-faire-une-page-ayant-la-meme-hauteur-que-le-navigateur.pdf.png"
+        },
+        {
+            "title": "Comment parser facilement du XML",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1166966-comment-parser-facilement-du-xml",
+            "book_link": "/book_files/109254-comment-parser-facilement-du-xml.pdf",
+            "thumbnail_link": "/thumbnails/109254-comment-parser-facilement-du-xml.pdf.png"
+        },
+        {
+            "title": "Comment utiliser la balise <math>",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1224181-comment-utiliser-la-balise-math",
+            "book_link": "/book_files/202217-comment-utiliser-la-balise-math.pdf",
+            "thumbnail_link": "/thumbnails/202217-comment-utiliser-la-balise-math.pdf.png"
+        },
+        {
+            "title": "Compilation \u00e0 la vol\u00e9e avec libtcc",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1233081-compilation-a-la-volee-avec-libtcc",
+            "book_link": "/book_files/268685-compilation-a-la-volee-avec-libtcc.pdf",
+            "thumbnail_link": "/thumbnails/268685-compilation-a-la-volee-avec-libtcc.pdf.png"
+        },
+        {
+            "title": "Compilez l'AS3 gratuitement et l\u00e9galement sous Windows/Linux",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1164021-compilez-las3-gratuitement-et-legalement-sous-windows-linux",
+            "book_link": "/book_files/32837-compilez-l-as3-gratuitement-et-legalement-sous-windows-linux.pdf",
+            "thumbnail_link": "/thumbnails/32837-compilez-l-as3-gratuitement-et-legalement-sous-windows-linux.pdf.png"
+        },
+        {
+            "title": "Compilez sous GNU/Linux !",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1130196-compilez-sous-gnu-linux",
+            "book_link": "/book_files/31992-compilez-sous-gnu-linux.pdf",
+            "thumbnail_link": "/thumbnails/31992-compilez-sous-gnu-linux.pdf.png"
+        },
+        {
+            "title": "Comprendre l'USB et bricoler un p\u00e9riph\u00e9rique",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1132181-comprendre-lusb-et-bricoler-un-peripherique",
+            "book_link": "/book_files/37064-comprendre-l-usb-et-bricoler-un-peripherique.pdf",
+            "thumbnail_link": "/thumbnails/37064-comprendre-l-usb-et-bricoler-un-peripherique.pdf.png"
+        },
+        {
+            "title": "Comprendre la messagerie \u00e9lectronique",
+            "size": 2.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1315691-comprendre-la-messagerie-electronique",
+            "book_link": "/book_files/4477-comprendre-la-messagerie-electronique.pdf",
+            "thumbnail_link": "/thumbnails/4477-comprendre-la-messagerie-electronique.pdf.png"
+        },
+        {
+            "title": "Compteur de t\u00e9l\u00e9chargements",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1096286-compteur-de-telechargements",
+            "book_link": "/book_files/36048-compteur-de-telechargements.pdf",
+            "thumbnail_link": "/thumbnails/36048-compteur-de-telechargements.pdf.png"
+        },
+        {
+            "title": "Concevez votre site web avec PHP et MySQL",
+            "size": 8.6,
+            "course_link": "https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql",
+            "book_link": "/book_files/14668-concevez-votre-site-web-avec-php-et-mysql.pdf",
+            "thumbnail_link": "/thumbnails/14668-concevez-votre-site-web-avec-php-et-mysql.pdf.png"
+        },
+        {
+            "title": "Configurer Hammer pour Steam",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1086441-configurer-hammer-pour-steam",
+            "book_link": "/book_files/33046-configurer-hammer-pour-steam.pdf",
+            "thumbnail_link": "/thumbnails/33046-configurer-hammer-pour-steam.pdf.png"
+        },
+        {
+            "title": "Conna\u00eetre et monter son PC",
+            "size": 2.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1500961-connaitre-et-monter-son-pc",
+            "book_link": "/book_files/137783-connaitre-et-monter-son-pc.pdf",
+            "thumbnail_link": "/thumbnails/137783-connaitre-et-monter-son-pc.pdf.png"
+        },
+        {
+            "title": "Construire un mode -ap / -ar",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1204581-construire-un-mode-ap-ar",
+            "book_link": "/book_files/201122-construire-un-mode-ap-ar.pdf",
+            "thumbnail_link": "/thumbnails/201122-construire-un-mode-ap-ar.pdf.png"
+        },
+        {
+            "title": "Conteneurs exotiques Boost",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1258596-conteneurs-exotiques-boost",
+            "book_link": "/book_files/281260-conteneurs-exotiques-boost.pdf",
+            "thumbnail_link": "/thumbnails/281260-conteneurs-exotiques-boost.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ation de paquets avec ArchLinux",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1230486-creation-de-paquets-avec-archlinux",
+            "book_link": "/book_files/249946-creation-de-paquets-avec-archlinux.pdf",
+            "thumbnail_link": "/thumbnails/249946-creation-de-paquets-avec-archlinux.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er des biblioth\u00e8ques avec Code::Blocks",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1090416-creer-des-bibliotheques-avec-code-blocks",
+            "book_link": "/book_files/35449-creer-des-bibliotheques-avec-code-blocks.pdf",
+            "thumbnail_link": "/thumbnails/35449-creer-des-bibliotheques-avec-code-blocks.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er des documents avec txt2tags",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1212746-creer-des-documents-avec-txt2tags",
+            "book_link": "/book_files/278497-creer-des-documents-avec-txt2tags.pdf",
+            "thumbnail_link": "/thumbnails/278497-creer-des-documents-avec-txt2tags.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er des GIF anim\u00e9s",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1212301-creer-des-gif-animes",
+            "book_link": "/book_files/235061-creer-des-gif-animes.pdf",
+            "thumbnail_link": "/thumbnails/235061-creer-des-gif-animes.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er des interpolations avec Flash",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1222746-creer-des-interpolations-avec-flash",
+            "book_link": "/book_files/160111-creer-des-interpolations-avec-flash.pdf",
+            "thumbnail_link": "/thumbnails/160111-creer-des-interpolations-avec-flash.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er des jeux textuels avec Inform 7",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1205821-creer-des-jeux-textuels-avec-inform-7",
+            "book_link": "/book_files/215762-creer-des-jeux-textuels-avec-inform-7.pdf",
+            "thumbnail_link": "/thumbnails/215762-creer-des-jeux-textuels-avec-inform-7.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er et modifier le menu de Counter-Strike: Source (et autres jeux Valve)",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1188366-creer-et-modifier-le-menu-de-counter-strike-source-et-autres-jeux-valve",
+            "book_link": "/book_files/122866-creer-et-modifier-le-menu-de-counter-strike-source-et-autres-jeux-valve.pdf",
+            "thumbnail_link": "/thumbnails/122866-creer-et-modifier-le-menu-de-counter-strike-source-et-autres-jeux-valve.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er son forum de toutes pi\u00e8ces",
+            "size": 3,
+            "course_link": "https://openclassrooms.com/fr/courses/1401411-creer-son-forum-de-toutes-pieces",
+            "book_link": "/book_files/10017-creer-son-forum-de-toutes-pieces.pdf",
+            "thumbnail_link": "/thumbnails/10017-creer-son-forum-de-toutes-pieces.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er son serveur FTP",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1256396-creer-son-serveur-ftp",
+            "book_link": "/book_files/356283-creer-son-serveur-ftp.pdf",
+            "thumbnail_link": "/thumbnails/356283-creer-son-serveur-ftp.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er son serveur TeamSpeak 2 RC2",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1169846-creer-son-serveur-teamspeak-2-rc2",
+            "book_link": "/book_files/112533-creer-son-serveur-teamspeak-2-rc2.pdf",
+            "thumbnail_link": "/thumbnails/112533-creer-son-serveur-teamspeak-2-rc2.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un avatar qui change",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1092781-creer-un-avatar-qui-change",
+            "book_link": "/book_files/34297-creer-un-avatar-qui-change.pdf",
+            "thumbnail_link": "/thumbnails/34297-creer-un-avatar-qui-change.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un blog accessible avec HTML5",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1298126-creer-un-blog-accessible-avec-html5",
+            "book_link": "/book_files/729496-creer-un-blog-accessible-avec-html5.pdf",
+            "thumbnail_link": "/thumbnails/729496-creer-un-blog-accessible-avec-html5.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un d\u00e9p\u00f4t Launchpad",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1275186-creer-un-depot-launchpad",
+            "book_link": "/book_files/545268-creer-un-depot-launchpad.pdf",
+            "thumbnail_link": "/thumbnails/545268-creer-un-depot-launchpad.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un espace membre pour son site",
+            "size": 2.2,
+            "course_link": "https://openclassrooms.com/fr/courses/123252-creer-un-espace-membre-pour-son-site",
+            "book_link": "/book_files/69651-creer-un-espace-membre-pour-son-site.pdf",
+            "thumbnail_link": "/thumbnails/69651-creer-un-espace-membre-pour-son-site.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un menu circulaire",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1176381-creer-un-menu-circulaire",
+            "book_link": "/book_files/35692-creer-un-menu-circulaire.pdf",
+            "thumbnail_link": "/thumbnails/35692-creer-un-menu-circulaire.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un menu horizontal d\u00e9roulant en CSS",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1131486-creer-un-menu-horizontal-deroulant-en-css",
+            "book_link": "/book_files/37795-creer-un-menu-horizontal-deroulant-en-css.pdf",
+            "thumbnail_link": "/thumbnails/37795-creer-un-menu-horizontal-deroulant-en-css.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un mini-RPG en JavaScript avec canvas",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1455701-creer-un-mini-rpg-en-javascript-avec-canvas",
+            "book_link": "/book_files/470482-creer-un-mini-rpg-en-javascript-avec-canvas.pdf",
+            "thumbnail_link": "/thumbnails/470482-creer-un-mini-rpg-en-javascript-avec-canvas.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un moteur de recherche avec Sphinx et PHP",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1275616-creer-un-moteur-de-recherche-avec-sphinx-et-php",
+            "book_link": "/book_files/602727-creer-un-moteur-de-recherche-avec-sphinx-et-php.pdf",
+            "thumbnail_link": "/thumbnails/602727-creer-un-moteur-de-recherche-avec-sphinx-et-php.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un petit montage avec Windows Movie Maker",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1088096-creer-un-petit-montage-avec-windows-movie-maker",
+            "book_link": "/book_files/37326-creer-un-petit-montage-avec-windows-movie-maker.pdf",
+            "thumbnail_link": "/thumbnails/37326-creer-un-petit-montage-avec-windows-movie-maker.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un serveur d\u00e9di\u00e9 pour Counter-Strike 1.6",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1351411-creer-un-serveur-dedie-pour-counter-strike-1-6",
+            "book_link": "/book_files/5818-creer-un-serveur-dedie-pour-counter-strike-1-6.pdf",
+            "thumbnail_link": "/thumbnails/5818-creer-un-serveur-dedie-pour-counter-strike-1-6.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un serveur FTP sous Windows",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/634855-creer-un-serveur-ftp-sous-windows",
+            "book_link": "/book_files/34127-creer-un-serveur-ftp-sous-windows.pdf",
+            "thumbnail_link": "/thumbnails/34127-creer-un-serveur-ftp-sous-windows.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un serveur Subversion",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1185126-creer-un-serveur-subversion",
+            "book_link": "/book_files/58147-creer-un-serveur-subversion.pdf",
+            "thumbnail_link": "/thumbnails/58147-creer-un-serveur-subversion.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er un syst\u00e8me de newsletter",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1117516-creer-un-systeme-de-newsletter",
+            "book_link": "/book_files/32719-creer-un-systeme-de-newsletter.pdf",
+            "thumbnail_link": "/thumbnails/32719-creer-un-systeme-de-newsletter.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er une ic\u00f4ne pour son programme",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1297001-creer-une-icone-pour-son-programme",
+            "book_link": "/book_files/14177-creer-une-icone-pour-son-programme.pdf",
+            "thumbnail_link": "/thumbnails/14177-creer-une-icone-pour-son-programme.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er une installation",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1297171-creer-une-installation",
+            "book_link": "/book_files/14171-creer-une-installation.pdf",
+            "thumbnail_link": "/thumbnails/14171-creer-une-installation.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er une UserBar avec GIMP",
+            "size": 2,
+            "course_link": "https://openclassrooms.com/fr/courses/1220031-creer-une-userbar-avec-gimp",
+            "book_link": "/book_files/274081-creer-une-userbar-avec-gimp.pdf",
+            "thumbnail_link": "/thumbnails/274081-creer-une-userbar-avec-gimp.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9er une vid\u00e9o d'un jeu (WoW, CS, etc.)",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1142416-creer-une-video-dun-jeu-wow-cs-etc",
+            "book_link": "/book_files/32105-creer-une-video-d-un-jeu-wow-cs-etc.pdf",
+            "thumbnail_link": "/thumbnails/32105-creer-une-video-d-un-jeu-wow-cs-etc.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications 2D avec SFML",
+            "size": 2.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1515531-creez-des-applications-2d-avec-sfml",
+            "book_link": "/book_files/321243-creez-des-applications-2d-avec-sfml.pdf",
+            "thumbnail_link": "/thumbnails/321243-creez-des-applications-2d-avec-sfml.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications en C# pour Windows Phone 8",
+            "size": 20,
+            "course_link": "https://openclassrooms.com/fr/courses/2013846-creez-des-applications-en-c-pour-windows-phone-8",
+            "book_link": "/book_files/744020-creez-des-applications-en-c-pour-windows-phone-8.pdf",
+            "thumbnail_link": "/thumbnails/744020-creez-des-applications-en-c-pour-windows-phone-8.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications pour Android",
+            "size": 10.8,
+            "course_link": "https://openclassrooms.com/fr/courses/2023346-creez-des-applications-pour-android",
+            "book_link": "/book_files/554364-creez-des-applications-pour-android.pdf",
+            "thumbnail_link": "/thumbnails/554364-creez-des-applications-pour-android.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications pour BlackBerry",
+            "size": 9.5,
+            "course_link": "https://openclassrooms.com/fr/courses/654235-creez-des-applications-pour-blackberry",
+            "book_link": "/book_files/611892-creez-des-applications-pour-blackberry.pdf",
+            "thumbnail_link": "/thumbnails/611892-creez-des-applications-pour-blackberry.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications pour iPhone, iPad et iPod Touch",
+            "size": 20.6,
+            "course_link": "https://openclassrooms.com/fr/courses/973182-creez-des-applications-pour-iphone-ipad-et-ipod-touch",
+            "book_link": "/book_files/553417-creez-des-applications-pour-iphone-ipad-et-ipod-touch.pdf",
+            "thumbnail_link": "/thumbnails/553417-creez-des-applications-pour-iphone-ipad-et-ipod-touch.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications pour Windows 8 en HTML et JavaScript",
+            "size": 7.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1695901-creez-des-applications-pour-windows-8-en-html-et-javascript",
+            "book_link": "/book_files/729577-creez-des-applications-pour-windows-8-en-html-et-javascript.pdf",
+            "thumbnail_link": "/thumbnails/729577-creez-des-applications-pour-windows-8-en-html-et-javascript.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des applications pour Windows Phone",
+            "size": 8.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1656261-creez-des-applications-pour-windows-phone",
+            "book_link": "/book_files/630450-creez-des-applications-pour-windows-phone.pdf",
+            "thumbnail_link": "/thumbnails/630450-creez-des-applications-pour-windows-phone.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des instruments virtuels avec SynthMaker",
+            "size": 4.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1422871-creez-des-instruments-virtuels-avec-synthmaker",
+            "book_link": "/book_files/426559-creez-des-instruments-virtuels-avec-synthmaker.pdf",
+            "thumbnail_link": "/thumbnails/426559-creez-des-instruments-virtuels-avec-synthmaker.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez des maps pour Teeworlds !",
+            "size": 1.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1274531-creez-des-maps-pour-teeworlds",
+            "book_link": "/book_files/522944-creez-des-maps-pour-teeworlds.pdf",
+            "thumbnail_link": "/thumbnails/522944-creez-des-maps-pour-teeworlds.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez facilement des montages vid\u00e9o sous Linux avec OpenShot !",
+            "size": 1.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1260706-creez-facilement-des-montages-video-sous-linux-avec-openshot",
+            "book_link": "/book_files/373431-creez-facilement-des-montages-video-sous-linux-avec-openshot.pdf",
+            "thumbnail_link": "/thumbnails/373431-creez-facilement-des-montages-video-sous-linux-avec-openshot.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez un jeu de Sokoban en Flash !",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1095431-creez-un-jeu-de-sokoban-en-flash",
+            "book_link": "/book_files/30855-creez-un-jeu-de-sokoban-en-flash.pdf",
+            "thumbnail_link": "/thumbnails/30855-creez-un-jeu-de-sokoban-en-flash.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez une interface avec GTK+ !",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1387611-creez-une-interface-avec-gtk",
+            "book_link": "/book_files/3034-creez-une-interface-avec-gtk.pdf",
+            "thumbnail_link": "/thumbnails/3034-creez-une-interface-avec-gtk.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez vos applications web avec Flask",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1654786-creez-vos-applications-web-avec-flask",
+            "book_link": "/book_files/729324-creez-vos-applications-web-avec-flask.pdf",
+            "thumbnail_link": "/thumbnails/729324-creez-vos-applications-web-avec-flask.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez vos diaporamas en LaTeX avec Beamer !",
+            "size": 4.3,
+            "course_link": "https://openclassrooms.com/fr/courses/207793-creez-vos-diaporamas-en-latex-avec-beamer",
+            "book_link": "/book_files/652805-creez-vos-diaporamas-en-latex-avec-beamer.pdf",
+            "thumbnail_link": "/thumbnails/652805-creez-vos-diaporamas-en-latex-avec-beamer.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez votre application web avec Java EE",
+            "size": 17.3,
+            "course_link": "https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee",
+            "book_link": "/book_files/285022-creez-votre-application-web-avec-java-ee.pdf",
+            "thumbnail_link": "/thumbnails/285022-creez-votre-application-web-avec-java-ee.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez votre menu interactif en images en HTML/CSS !",
+            "size": 1.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1299511-creez-votre-menu-interactif-en-images-en-html-css",
+            "book_link": "/book_files/740508-creez-votre-menu-interactif-en-images-en-html-css.pdf",
+            "thumbnail_link": "/thumbnails/740508-creez-votre-menu-interactif-en-images-en-html-css.pdf.png"
+        },
+        {
+            "title": "Cr\u00e9ez votre propre package",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1146006-creez-votre-propre-package",
+            "book_link": "/book_files/34771-creez-votre-propre-package.pdf",
+            "thumbnail_link": "/thumbnails/34771-creez-votre-propre-package.pdf.png"
+        },
+        {
+            "title": "[CSS] Les compteurs",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1096636-css-les-compteurs",
+            "book_link": "/book_files/37125-css-les-compteurs.pdf",
+            "thumbnail_link": "/thumbnails/37125-css-les-compteurs.pdf.png"
+        },
+        {
+            "title": "De la musique avec Caml",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1211741-de-la-musique-avec-caml",
+            "book_link": "/book_files/243632-de-la-musique-avec-caml.pdf",
+            "thumbnail_link": "/thumbnails/243632-de-la-musique-avec-caml.pdf.png"
+        },
+        {
+            "title": "D\u00e9bugger avec Qt",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1222356-debugger-avec-qt",
+            "book_link": "/book_files/130460-debugger-avec-qt.pdf",
+            "thumbnail_link": "/thumbnails/130460-debugger-avec-qt.pdf.png"
+        },
+        {
+            "title": "D\u00e9buguer facilement avec Valgrind",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1271286-debuguer-facilement-avec-valgrind",
+            "book_link": "/book_files/473022-debuguer-facilement-avec-valgrind.pdf",
+            "thumbnail_link": "/thumbnails/473022-debuguer-facilement-avec-valgrind.pdf.png"
+        },
+        {
+            "title": "D\u00e9busquer et apprivoiser les bugs\u202fen C",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1287631-debusquer-et-apprivoiser-les-bugs-en-c",
+            "book_link": "/book_files/583938-debusquer-et-apprivoiser-les-bugs-en-c.pdf",
+            "thumbnail_link": "/thumbnails/583938-debusquer-et-apprivoiser-les-bugs-en-c.pdf.png"
+        },
+        {
+            "title": "D\u00e9buter dans l'infographie avec GIMP !",
+            "size": 7.8,
+            "course_link": "https://openclassrooms.com/fr/courses/299418-debuter-dans-linfographie-avec-gimp",
+            "book_link": "/book_files/462917-debuter-dans-l-infographie-avec-gimp.pdf",
+            "thumbnail_link": "/thumbnails/462917-debuter-dans-l-infographie-avec-gimp.pdf.png"
+        },
+        {
+            "title": "D\u00e9buter dans l'informatique embarqu\u00e9e avec Teensy",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1251441-debuter-dans-linformatique-embarquee-avec-teensy",
+            "book_link": "/book_files/313615-debuter-dans-l-informatique-embarquee-avec-teensy.pdf",
+            "thumbnail_link": "/thumbnails/313615-debuter-dans-l-informatique-embarquee-avec-teensy.pdf.png"
+        },
+        {
+            "title": "D\u00e9buter sur Adobe Photoshop !",
+            "size": 39.5,
+            "course_link": "https://openclassrooms.com/fr/courses/278642-debuter-sur-adobe-photoshop",
+            "book_link": "/book_files/351765-debuter-sur-adobe-photoshop.pdf",
+            "thumbnail_link": "/thumbnails/351765-debuter-sur-adobe-photoshop.pdf.png"
+        },
+        {
+            "title": "D\u00e9butez dans la 3D avec Blender",
+            "size": 17.6,
+            "course_link": "https://openclassrooms.com/fr/courses/663578-debutez-dans-la-3d-avec-blender",
+            "book_link": "/book_files/11714-debutez-dans-la-3d-avec-blender.pdf",
+            "thumbnail_link": "/thumbnails/11714-debutez-dans-la-3d-avec-blender.pdf.png"
+        },
+        {
+            "title": "D\u00e9butez en informatique avec Windows 7",
+            "size": 21.5,
+            "course_link": "https://openclassrooms.com/fr/courses/709545-debutez-en-informatique-avec-windows-7",
+            "book_link": "/book_files/376218-debutez-en-informatique-avec-windows-7.pdf",
+            "thumbnail_link": "/thumbnails/376218-debutez-en-informatique-avec-windows-7.pdf.png"
+        },
+        {
+            "title": "D\u00e9butez en informatique avec Windows 8",
+            "size": 27.5,
+            "course_link": "https://openclassrooms.com/fr/courses/927424-debutez-en-informatique-avec-windows-8",
+            "book_link": "/book_files/709467-debutez-en-informatique-avec-windows-8.pdf",
+            "thumbnail_link": "/thumbnails/709467-debutez-en-informatique-avec-windows-8.pdf.png"
+        },
+        {
+            "title": "D\u00e9couverte de la programmation par contraintes",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1201686-decouverte-de-la-programmation-par-contraintes",
+            "book_link": "/book_files/193225-decouverte-de-la-programmation-par-contraintes.pdf",
+            "thumbnail_link": "/thumbnails/193225-decouverte-de-la-programmation-par-contraintes.pdf.png"
+        },
+        {
+            "title": "D\u00e9couvrez la puissance de jQuery UI",
+            "size": 1.4,
+            "course_link": "https://openclassrooms.com/fr/courses/510018-decouvrez-la-puissance-de-jquery-ui",
+            "book_link": "/book_files/640880-decouvrez-la-puissance-de-jquery-ui.pdf",
+            "thumbnail_link": "/thumbnails/640880-decouvrez-la-puissance-de-jquery-ui.pdf.png"
+        },
+        {
+            "title": "D\u00e9couvrez Ogre 3D",
+            "size": 4.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1537666-decouvrez-ogre-3d",
+            "book_link": "/book_files/334502-decouvrez-ogre-3d.pdf",
+            "thumbnail_link": "/thumbnails/334502-decouvrez-ogre-3d.pdf.png"
+        },
+        {
+            "title": "D\u00e9couvrir et configurer le protocole SFTP avec MySecureShell",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1195121-decouvrir-et-configurer-le-protocole-sftp-avec-mysecureshell",
+            "book_link": "/book_files/154397-decouvrir-et-configurer-le-protocole-sftp-avec-mysecureshell.pdf",
+            "thumbnail_link": "/thumbnails/154397-decouvrir-et-configurer-le-protocole-sftp-avec-mysecureshell.pdf.png"
+        },
+        {
+            "title": "Deplacement avec le clavier",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1062906-deplacement-avec-le-clavier",
+            "book_link": "/book_files/31431-deplacement-avec-le-clavier.pdf",
+            "thumbnail_link": "/thumbnails/31431-deplacement-avec-le-clavier.pdf.png"
+        },
+        {
+            "title": "D\u00e9ployez vos projets web facilement avec WebMatrix !",
+            "size": 3.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1431841-deployez-vos-projets-web-facilement-avec-webmatrix",
+            "book_link": "/book_files/448369-deployez-vos-projets-web-facilement-avec-webmatrix.pdf",
+            "thumbnail_link": "/thumbnails/448369-deployez-vos-projets-web-facilement-avec-webmatrix.pdf.png"
+        },
+        {
+            "title": "Des applications ultra-rapides avec Node.js",
+            "size": 2.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js",
+            "book_link": "/book_files/762576-des-applications-ultra-rapides-avec-node-js.pdf",
+            "thumbnail_link": "/thumbnails/762576-des-applications-ultra-rapides-avec-node-js.pdf.png"
+        },
+        {
+            "title": "Des couleurs dans la console (Linux)",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1093526-des-couleurs-dans-la-console-linux",
+            "book_link": "/book_files/35298-des-couleurs-dans-la-console-linux.pdf",
+            "thumbnail_link": "/thumbnails/35298-des-couleurs-dans-la-console-linux.pdf.png"
+        },
+        {
+            "title": "Des news sur votre site !",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1219146-des-news-sur-votre-site",
+            "book_link": "/book_files/14557-des-news-sur-votre-site.pdf",
+            "thumbnail_link": "/thumbnails/14557-des-news-sur-votre-site.pdf.png"
+        },
+        {
+            "title": "Des statistiques pour votre site !",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1210146-des-statistiques-pour-votre-site",
+            "book_link": "/book_files/219147-des-statistiques-pour-votre-site.pdf",
+            "thumbnail_link": "/thumbnails/219147-des-statistiques-pour-votre-site.pdf.png"
+        },
+        {
+            "title": "Des techniques modernes pour l'agencement en colonnes",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1281501-des-techniques-modernes-pour-lagencement-en-colonnes",
+            "book_link": "/book_files/517628-des-techniques-modernes-pour-l-agencement-en-colonnes.pdf",
+            "thumbnail_link": "/thumbnails/517628-des-techniques-modernes-pour-l-agencement-en-colonnes.pdf.png"
+        },
+        {
+            "title": "Des widgets en 3D avec Qt",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1238681-des-widgets-en-3d-avec-qt",
+            "book_link": "/book_files/271568-des-widgets-en-3d-avec-qt.pdf",
+            "thumbnail_link": "/thumbnails/271568-des-widgets-en-3d-avec-qt.pdf.png"
+        },
+        {
+            "title": "D\u00e9sinstaller GNU/Linux et ne garder que Windows",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1209746-desinstaller-gnu-linux-et-ne-garder-que-windows",
+            "book_link": "/book_files/186926-desinstaller-gnu-linux-et-ne-garder-que-windows.pdf",
+            "thumbnail_link": "/thumbnails/186926-desinstaller-gnu-linux-et-ne-garder-que-windows.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppement C# (.NET)",
+            "size": 1.3,
+            "course_link": "https://openclassrooms.com/fr/courses/392266-developpement-c-net",
+            "book_link": "/book_files/419385-developpement-c-net.pdf",
+            "thumbnail_link": "/thumbnails/419385-developpement-c-net.pdf.png"
+        },
+        {
+            "title": "D\u00e9velopper son propre contr\u00f4le utilisateur WinForms",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/551594-developper-son-propre-controle-utilisateur-winforms",
+            "book_link": "/book_files/732233-developper-son-propre-controle-utilisateur-winforms.pdf",
+            "thumbnail_link": "/thumbnails/732233-developper-son-propre-controle-utilisateur-winforms.pdf.png"
+        },
+        {
+            "title": "D\u00e9velopper sur Microsoft Surface",
+            "size": 3.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1428056-developper-sur-microsoft-surface",
+            "book_link": "/book_files/374484-developper-sur-microsoft-surface.pdf",
+            "thumbnail_link": "/thumbnails/374484-developper-sur-microsoft-surface.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez des jeux en 2D avec Construct",
+            "size": 1.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1705326-developpez-des-jeux-en-2d-avec-construct",
+            "book_link": "/book_files/747604-developpez-des-jeux-en-2d-avec-construct.pdf",
+            "thumbnail_link": "/thumbnails/747604-developpez-des-jeux-en-2d-avec-construct.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez vos applications 3D avec OpenGL 3.3",
+            "size": 12.5,
+            "course_link": "https://openclassrooms.com/fr/courses/966823-developpez-vos-applications-3d-avec-opengl-3-3",
+            "book_link": "/book_files/421558-developpez-vos-applications-3d-avec-opengl-3-3.pdf",
+            "thumbnail_link": "/thumbnails/421558-developpez-vos-applications-3d-avec-opengl-3-3.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez vos applications web avec Django",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/504400-developpez-vos-applications-web-avec-django",
+            "book_link": "/book_files/329045-developpez-vos-applications-web-avec-django.pdf",
+            "thumbnail_link": "/thumbnails/329045-developpez-vos-applications-web-avec-django.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez vos applications web avec Symfony2 !",
+            "size": 2.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1524561-developpez-vos-applications-web-avec-symfony2",
+            "book_link": "/book_files/582312-developpez-vos-applications-web-avec-symfony2.pdf",
+            "thumbnail_link": "/thumbnails/582312-developpez-vos-applications-web-avec-symfony2.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez votre propre plug-in jQuery !",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1259101-developpez-votre-propre-plug-in-jquery",
+            "book_link": "/book_files/398635-developpez-votre-propre-plug-in-jquery.pdf",
+            "thumbnail_link": "/thumbnails/398635-developpez-votre-propre-plug-in-jquery.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez votre site web avec le framework Django",
+            "size": 4.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1871271-developpez-votre-site-web-avec-le-framework-django",
+            "book_link": "/book_files/700664-developpez-votre-site-web-avec-le-framework-django.pdf",
+            "thumbnail_link": "/thumbnails/700664-developpez-votre-site-web-avec-le-framework-django.pdf.png"
+        },
+        {
+            "title": "D\u00e9veloppez votre site web avec le framework Symfony2 (ancienne version)",
+            "size": 6.8,
+            "course_link": "https://openclassrooms.com/fr/courses/2078536-developpez-votre-site-web-avec-le-framework-symfony2-ancienne-version",
+            "book_link": "/book_files/517569-developpez-votre-site-web-avec-le-framework-symfony2.pdf",
+            "thumbnail_link": "/thumbnails/517569-developpez-votre-site-web-avec-le-framework-symfony2.pdf.png"
+        },
+        {
+            "title": "Dissimuler un texte dans une image",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1215236-dissimuler-un-texte-dans-une-image",
+            "book_link": "/book_files/209964-dissimuler-un-texte-dans-une-image.pdf",
+            "thumbnail_link": "/thumbnails/209964-dissimuler-un-texte-dans-une-image.pdf.png"
+        },
+        {
+            "title": "Domptez votre calculatrice avec le Basic Casio !",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1306066-domptez-votre-calculatrice-avec-le-basic-casio",
+            "book_link": "/book_files/2898-domptez-votre-calculatrice-avec-le-basic-casio.pdf",
+            "thumbnail_link": "/thumbnails/2898-domptez-votre-calculatrice-avec-le-basic-casio.pdf.png"
+        },
+        {
+            "title": "Du d\u00e9cimal au binaire",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1155761-du-decimal-au-binaire",
+            "book_link": "/book_files/33029-du-decimal-au-binaire.pdf",
+            "thumbnail_link": "/thumbnails/33029-du-decimal-au-binaire.pdf.png"
+        },
+        {
+            "title": "Du Qt en Java avec Qt Jambi",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1392631-du-qt-en-java-avec-qt-jambi",
+            "book_link": "/book_files/3158-du-qt-en-java-avec-qt-jambi.pdf",
+            "thumbnail_link": "/thumbnails/3158-du-qt-en-java-avec-qt-jambi.pdf.png"
+        },
+        {
+            "title": "Du rewriting r\u00e9alis\u00e9 avec du PHP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1166706-du-rewriting-realise-avec-du-php",
+            "book_link": "/book_files/96527-du-rewriting-realise-avec-du-php.pdf",
+            "thumbnail_link": "/thumbnails/96527-du-rewriting-realise-avec-du-php.pdf.png"
+        },
+        {
+            "title": "Dynamisez vos sites web avec JavaScript !",
+            "size": 5.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1916641-dynamisez-vos-sites-web-avec-javascript",
+            "book_link": "/book_files/309961-dynamisez-vos-sites-web-avec-javascript.pdf",
+            "thumbnail_link": "/thumbnails/309961-dynamisez-vos-sites-web-avec-javascript.pdf.png"
+        },
+        {
+            "title": "\u00c9crire du PHP dans des fichiers HTML",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1089636-ecrire-du-php-dans-des-fichiers-html",
+            "book_link": "/book_files/34161-ecrire-du-php-dans-des-fichiers-html.pdf",
+            "thumbnail_link": "/thumbnails/34161-ecrire-du-php-dans-des-fichiers-html.pdf.png"
+        },
+        {
+            "title": "\u00c9crivez votre site web en C avec la CGI",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1239006-ecrivez-votre-site-web-en-c-avec-la-cgi",
+            "book_link": "/book_files/274874-ecrivez-votre-site-web-en-c-avec-la-cgi.pdf",
+            "thumbnail_link": "/thumbnails/274874-ecrivez-votre-site-web-en-c-avec-la-cgi.pdf.png"
+        },
+        {
+            "title": "Effectuez vos \u00e9tudes statistiques avec R",
+            "size": 6.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1393696-effectuez-vos-etudes-statistiques-avec-r",
+            "book_link": "/book_files/374508-effectuez-vos-etudes-statistiques-avec-r.pdf",
+            "thumbnail_link": "/thumbnails/374508-effectuez-vos-etudes-statistiques-avec-r.pdf.png"
+        },
+        {
+            "title": "Emp\u00eacher le t\u00e9l\u00e9chargement direct de fichiers",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1287381-empecher-le-telechargement-direct-de-fichiers",
+            "book_link": "/book_files/549884-empecher-le-telechargement-direct-de-fichiers.pdf",
+            "thumbnail_link": "/thumbnails/549884-empecher-le-telechargement-direct-de-fichiers.pdf.png"
+        },
+        {
+            "title": "Emp\u00eacher le t\u00e9l\u00e9chargement direct de fichiers multim\u00e9dia",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/567270-empecher-le-telechargement-direct-de-fichiers-multimedia",
+            "book_link": "/book_files/614000-empecher-le-telechargement-direct-de-fichiers-multimedia.pdf",
+            "thumbnail_link": "/thumbnails/614000-empecher-le-telechargement-direct-de-fichiers-multimedia.pdf.png"
+        },
+        {
+            "title": "Enregistrer et lire des donn\u00e9es de fichiers .ini",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1347491-enregistrer-et-lire-des-donnees-de-fichiers-ini",
+            "book_link": "/book_files/4214-enregistrer-et-lire-des-donnees-de-fichiers-ini.pdf",
+            "thumbnail_link": "/thumbnails/4214-enregistrer-et-lire-des-donnees-de-fichiers-ini.pdf.png"
+        },
+        {
+            "title": "Erlang Graphical Drawer",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1161866-erlang-graphical-drawer",
+            "book_link": "/book_files/36796-erlang-graphical-drawer.pdf",
+            "thumbnail_link": "/thumbnails/36796-erlang-graphical-drawer.pdf.png"
+        },
+        {
+            "title": "Ex\u00e9cuter des fonctions math\u00e9matiques avec Grapher",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1246371-executer-des-fonctions-mathematiques-avec-grapher",
+            "book_link": "/book_files/294880-executer-des-fonctions-mathematiques-avec-grapher.pdf",
+            "thumbnail_link": "/thumbnails/294880-executer-des-fonctions-mathematiques-avec-grapher.pdf.png"
+        },
+        {
+            "title": "Ex\u00e9cuter PHP en CLI (Console)",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1089741-executer-php-en-cli-console",
+            "book_link": "/book_files/33412-executer-php-en-cli-console.pdf",
+            "thumbnail_link": "/thumbnails/33412-executer-php-en-cli-console.pdf.png"
+        },
+        {
+            "title": "Explorez l'espace avec Celestia !",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1185746-explorez-lespace-avec-celestia",
+            "book_link": "/book_files/160820-explorez-l-espace-avec-celestia.pdf",
+            "thumbnail_link": "/thumbnails/160820-explorez-l-espace-avec-celestia.pdf.png"
+        },
+        {
+            "title": "Faire de son programme un Logiciel Libre",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1109901-faire-de-son-programme-un-logiciel-libre",
+            "book_link": "/book_files/37075-faire-de-son-programme-un-logiciel-libre.pdf",
+            "thumbnail_link": "/thumbnails/37075-faire-de-son-programme-un-logiciel-libre.pdf.png"
+        },
+        {
+            "title": "Faire des animations avec SDLP_Anim",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1192836-faire-des-animations-avec-sdlp-anim",
+            "book_link": "/book_files/34997-faire-des-animations-avec-sdlp-anim.pdf",
+            "thumbnail_link": "/thumbnails/34997-faire-des-animations-avec-sdlp-anim.pdf.png"
+        },
+        {
+            "title": "Faire des tableaux sous OOo Writer !",
+            "size": 1.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1170386-faire-des-tableaux-sous-ooo-writer",
+            "book_link": "/book_files/38474-faire-des-tableaux-sous-ooo-writer.pdf",
+            "thumbnail_link": "/thumbnails/38474-faire-des-tableaux-sous-ooo-writer.pdf.png"
+        },
+        {
+            "title": "Faire un Demon sous Linux",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1221701-faire-un-demon-sous-linux",
+            "book_link": "/book_files/234522-faire-un-demon-sous-linux.pdf",
+            "thumbnail_link": "/thumbnails/234522-faire-un-demon-sous-linux.pdf.png"
+        },
+        {
+            "title": "Faire un menu d'acc\u00e8s rapide",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1088786-faire-un-menu-dacces-rapide",
+            "book_link": "/book_files/37047-faire-un-menu-d-acces-rapide.pdf",
+            "thumbnail_link": "/thumbnails/37047-faire-un-menu-d-acces-rapide.pdf.png"
+        },
+        {
+            "title": "Faire une image anti-robots (ou captcha) facilement",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1096476-faire-une-image-anti-robots-ou-captcha-facilement",
+            "book_link": "/book_files/31412-faire-une-image-anti-robots-ou-captcha-facilement.pdf",
+            "thumbnail_link": "/thumbnails/31412-faire-une-image-anti-robots-ou-captcha-facilement.pdf.png"
+        },
+        {
+            "title": "Faites parler vos applications en .NET",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1300971-faites-parler-vos-applications-en-net",
+            "book_link": "/book_files/691007-faites-parler-vos-applications-en-net.pdf",
+            "thumbnail_link": "/thumbnails/691007-faites-parler-vos-applications-en-net.pdf.png"
+        },
+        {
+            "title": "Foncteurs et it\u00e9rateurs",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1160081-foncteurs-et-iterateurs",
+            "book_link": "/book_files/39045-foncteurs-et-iterateurs.pdf",
+            "thumbnail_link": "/thumbnails/39045-foncteurs-et-iterateurs.pdf.png"
+        },
+        {
+            "title": "G\u00e9n\u00e9rer des miniatures de pages web \u00e0 la vol\u00e9e sur votre serveur web",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1196906-generer-des-miniatures-de-pages-web-a-la-volee-sur-votre-serveur-web",
+            "book_link": "/book_files/157275-generer-des-miniatures-de-pages-web-a-la-volee-sur-votre-serveur-web.pdf",
+            "thumbnail_link": "/thumbnails/157275-generer-des-miniatures-de-pages-web-a-la-volee-sur-votre-serveur-web.pdf.png"
+        },
+        {
+            "title": "G\u00e9olocalisez vos visiteurs gr\u00e2ce \u00e0 leur IP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1229396-geolocalisez-vos-visiteurs-grace-a-leur-ip",
+            "book_link": "/book_files/306955-geolocalisez-vos-visiteurs-grace-a-leur-ip.pdf",
+            "thumbnail_link": "/thumbnails/306955-geolocalisez-vos-visiteurs-grace-a-leur-ip.pdf.png"
+        },
+        {
+            "title": "G\u00e9rer son nom de domaine",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1243111-gerer-son-nom-de-domaine",
+            "book_link": "/book_files/272111-gerer-son-nom-de-domaine.pdf",
+            "thumbnail_link": "/thumbnails/272111-gerer-son-nom-de-domaine.pdf.png"
+        },
+        {
+            "title": "G\u00e9rer vos projets avec Mercurial",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1204211-gerer-vos-projets-avec-mercurial",
+            "book_link": "/book_files/196002-gerer-vos-projets-avec-mercurial.pdf",
+            "thumbnail_link": "/thumbnails/196002-gerer-vos-projets-avec-mercurial.pdf.png"
+        },
+        {
+            "title": "G\u00e9rez vos codes source avec Git",
+            "size": 1.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git",
+            "book_link": "/book_files/254198-gerez-vos-codes-source-avec-git.pdf",
+            "thumbnail_link": "/thumbnails/254198-gerez-vos-codes-source-avec-git.pdf.png"
+        },
+        {
+            "title": "G\u00e9rez vos projets \u00e0 l'aide du gestionnaire de versions Subversion",
+            "size": 2.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1341826-gerez-vos-projets-a-laide-du-gestionnaire-de-versions-subversion",
+            "book_link": "/book_files/2696-gerez-vos-projets-a-l-aide-du-gestionnaire-de-versions-subversion.pdf",
+            "thumbnail_link": "/thumbnails/2696-gerez-vos-projets-a-l-aide-du-gestionnaire-de-versions-subversion.pdf.png"
+        },
+        {
+            "title": "Gestion de verrou MySQL",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1204741-gestion-de-verrou-mysql",
+            "book_link": "/book_files/195279-gestion-de-verrou-mysql.pdf",
+            "thumbnail_link": "/thumbnails/195279-gestion-de-verrou-mysql.pdf.png"
+        },
+        {
+            "title": "Google Maps JavaScript API V3",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1232366-google-maps-javascript-api-v3",
+            "book_link": "/book_files/262083-google-maps-javascript-api-v3.pdf",
+            "thumbnail_link": "/thumbnails/262083-google-maps-javascript-api-v3.pdf.png"
+        },
+        {
+            "title": "H\u00e9berger des d\u00e9p\u00f4ts Git avec gitosis",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1212496-heberger-des-depots-git-avec-gitosis",
+            "book_link": "/book_files/187504-heberger-des-depots-git-avec-gitosis.pdf",
+            "thumbnail_link": "/thumbnails/187504-heberger-des-depots-git-avec-gitosis.pdf.png"
+        },
+        {
+            "title": "H\u00e9bergez vos projets web dans le cloud avec Windows Azure",
+            "size": 4.2,
+            "course_link": "https://openclassrooms.com/fr/courses/919818-hebergez-vos-projets-web-dans-le-cloud-avec-windows-azure",
+            "book_link": "/book_files/519700-hebergez-vos-projets-web-dans-le-cloud-avec-windows-azure.pdf",
+            "thumbnail_link": "/thumbnails/519700-hebergez-vos-projets-web-dans-le-cloud-avec-windows-azure.pdf.png"
+        },
+        {
+            "title": "Hot Code Swapping",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1161421-hot-code-swapping",
+            "book_link": "/book_files/37032-hot-code-swapping.pdf",
+            "thumbnail_link": "/thumbnails/37032-hot-code-swapping.pdf.png"
+        },
+        {
+            "title": "HTML5, web-workers : le monde parall\u00e8le du javascript",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1559481-html5-web-workers-le-monde-parallele-du-javascript",
+            "book_link": "/book_files/675526-html5-web-workers-le-monde-parallele-du-javascript.pdf",
+            "thumbnail_link": "/thumbnails/675526-html5-web-workers-le-monde-parallele-du-javascript.pdf.png"
+        },
+        {
+            "title": "Indefero, un bug tracker tr\u00e8s complet",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1240911-indefero-un-bug-tracker-tres-complet",
+            "book_link": "/book_files/318320-indefero-un-bug-tracker-tres-complet.pdf",
+            "thumbnail_link": "/thumbnails/318320-indefero-un-bug-tracker-tres-complet.pdf.png"
+        },
+        {
+            "title": "Initiation \u00e0 la cr\u00e9ation d'un design extensible",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1249511-initiation-a-la-creation-dun-design-extensible",
+            "book_link": "/book_files/438531-initiation-a-la-creation-d-un-design-extensible.pdf",
+            "thumbnail_link": "/thumbnails/438531-initiation-a-la-creation-d-un-design-extensible.pdf.png"
+        },
+        {
+            "title": "Inscrivez et connectez vos membres en un clic !",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1292426-inscrivez-et-connectez-vos-membres-en-un-clic",
+            "book_link": "/book_files/658012-inscrivez-et-connectez-vos-membres-en-un-clic.pdf",
+            "thumbnail_link": "/thumbnails/658012-inscrivez-et-connectez-vos-membres-en-un-clic.pdf.png"
+        },
+        {
+            "title": "Installation et configuration de GRUB",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/340617-installation-et-configuration-de-grub",
+            "book_link": "/book_files/55668-installation-et-configuration-de-grub.pdf",
+            "thumbnail_link": "/thumbnails/55668-installation-et-configuration-de-grub.pdf.png"
+        },
+        {
+            "title": "Installation et utilisation d'un serveur SSH sous Debian Etch",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1139236-installation-et-utilisation-dun-serveur-ssh-sous-debian-etch",
+            "book_link": "/book_files/67402-installation-et-utilisation-d-un-serveur-ssh-sous-debian-etch.pdf",
+            "thumbnail_link": "/thumbnails/67402-installation-et-utilisation-d-un-serveur-ssh-sous-debian-etch.pdf.png"
+        },
+        {
+            "title": "Installer, configurer et utiliser Xampp sous Ubuntu",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1177596-installer-configurer-et-utiliser-xampp-sous-ubuntu",
+            "book_link": "/book_files/127684-installer-configurer-et-utiliser-xampp-sous-ubuntu.pdf",
+            "thumbnail_link": "/thumbnails/127684-installer-configurer-et-utiliser-xampp-sous-ubuntu.pdf.png"
+        },
+        {
+            "title": "Installer / d\u00e9sinstaller un ou plusieurs gestionnaires de bureau proprement (Gnome, KDE, XFCE, etc.)",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1190651-installer-desinstaller-un-ou-plusieurs-gestionnaires-de-bureau-proprement-gnome-kde-xfce-etc",
+            "book_link": "/book_files/70632-installer-desinstaller-un-ou-plusieurs-gestionnaires-de-bureau-proprement-gnome-kde-xfce-etc.pdf",
+            "thumbnail_link": "/thumbnails/70632-installer-desinstaller-un-ou-plusieurs-gestionnaires-de-bureau-proprement-gnome-kde-xfce-etc.pdf.png"
+        },
+        {
+            "title": "Installer Linux dans Windows avec coLinux",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1163081-installer-linux-dans-windows-avec-colinux",
+            "book_link": "/book_files/82775-installer-linux-dans-windows-avec-colinux.pdf",
+            "thumbnail_link": "/thumbnails/82775-installer-linux-dans-windows-avec-colinux.pdf.png"
+        },
+        {
+            "title": "Installer un r\u00e9seau Wi-Fi sur Ubuntu et d\u00e9riv\u00e9s",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1108681-installer-un-reseau-wi-fi-sur-ubuntu-et-derives",
+            "book_link": "/book_files/36980-installer-un-reseau-wi-fi-sur-ubuntu-et-derives.pdf",
+            "thumbnail_link": "/thumbnails/36980-installer-un-reseau-wi-fi-sur-ubuntu-et-derives.pdf.png"
+        },
+        {
+            "title": "Installer un serveur DNS avec djbdns sous debian",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1223676-installer-un-serveur-dns-avec-djbdns-sous-debian",
+            "book_link": "/book_files/193247-installer-un-serveur-dns-avec-djbdns-sous-debian.pdf",
+            "thumbnail_link": "/thumbnails/193247-installer-un-serveur-dns-avec-djbdns-sous-debian.pdf.png"
+        },
+        {
+            "title": "Installer Xubuntu sur un vieux PC grace \u00e0 l'Alternate CD",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1189376-installer-xubuntu-sur-un-vieux-pc-grace-a-lalternate-cd",
+            "book_link": "/book_files/154989-installer-xubuntu-sur-un-vieux-pc-grace-a-l-alternate-cd.pdf",
+            "thumbnail_link": "/thumbnails/154989-installer-xubuntu-sur-un-vieux-pc-grace-a-l-alternate-cd.pdf.png"
+        },
+        {
+            "title": "Interagir avec le serveur FTP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1216616-interagir-avec-le-serveur-ftp",
+            "book_link": "/book_files/213177-interagir-avec-le-serveur-ftp.pdf",
+            "thumbnail_link": "/thumbnails/213177-interagir-avec-le-serveur-ftp.pdf.png"
+        },
+        {
+            "title": "Internet et les navigateurs",
+            "size": 2.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1383536-internet-et-les-navigateurs",
+            "book_link": "/book_files/175248-internet-et-les-navigateurs.pdf",
+            "thumbnail_link": "/thumbnails/175248-internet-et-les-navigateurs.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 C++ 2011 (C++0x)",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1271531-introduction-a-c-2011-c-0x",
+            "book_link": "/book_files/497647-introduction-a-c-2011-c-0x.pdf",
+            "thumbnail_link": "/thumbnails/497647-introduction-a-c-2011-c-0x.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 l'\u00e9dition de texte avanc\u00e9e : l'exemple de GNU Nano",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1197706-introduction-a-ledition-de-texte-avancee-lexemple-de-gnu-nano",
+            "book_link": "/book_files/168143-introduction-a-l-edition-de-texte-avancee-l-exemple-de-gnu-nano.pdf",
+            "thumbnail_link": "/thumbnails/168143-introduction-a-l-edition-de-texte-avancee-l-exemple-de-gnu-nano.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 l'injection de d\u00e9pendances en PHP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1279096-introduction-a-linjection-de-dependances-en-php",
+            "book_link": "/book_files/495641-introduction-a-l-injection-de-dependances-en-php.pdf",
+            "thumbnail_link": "/thumbnails/495641-introduction-a-l-injection-de-dependances-en-php.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 la 3D",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1324526-introduction-a-la-3d",
+            "book_link": "/book_files/2032-introduction-a-la-3d.pdf",
+            "thumbnail_link": "/thumbnails/2032-introduction-a-la-3d.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 la dendrochronologie",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1264711-introduction-a-la-dendrochronologie",
+            "book_link": "/book_files/429349-introduction-a-la-dendrochronologie.pdf",
+            "thumbnail_link": "/thumbnails/429349-introduction-a-la-dendrochronologie.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 la logique floue",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1288291-introduction-a-la-logique-floue",
+            "book_link": "/book_files/637002-introduction-a-la-logique-floue.pdf",
+            "thumbnail_link": "/thumbnails/637002-introduction-a-la-logique-floue.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 la logique math\u00e9matique",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1279386-introduction-a-la-logique-mathematique",
+            "book_link": "/book_files/654283-introduction-a-la-logique-mathematique.pdf",
+            "thumbnail_link": "/thumbnails/654283-introduction-a-la-logique-mathematique.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 la programmation dynamique",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1164481-introduction-a-la-programmation-dynamique",
+            "book_link": "/book_files/95368-introduction-a-la-programmation-dynamique.pdf",
+            "thumbnail_link": "/thumbnails/95368-introduction-a-la-programmation-dynamique.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 la vision par ordinateur",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1490316-introduction-a-la-vision-par-ordinateur",
+            "book_link": "/book_files/563441-introduction-a-la-vision-par-ordinateur.pdf",
+            "thumbnail_link": "/thumbnails/563441-introduction-a-la-vision-par-ordinateur.pdf.png"
+        },
+        {
+            "title": "Introduction \u00e0 Vyatta",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1300206-introduction-a-vyatta",
+            "book_link": "/book_files/753215-introduction-a-vyatta.pdf",
+            "thumbnail_link": "/thumbnails/753215-introduction-a-vyatta.pdf.png"
+        },
+        {
+            "title": "Introduction au dialogue entre OCaml et le C",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/594704-introduction-au-dialogue-entre-ocaml-et-le-c",
+            "book_link": "/book_files/187906-introduction-au-dialogue-entre-ocaml-et-le-c.pdf",
+            "thumbnail_link": "/thumbnails/187906-introduction-au-dialogue-entre-ocaml-et-le-c.pdf.png"
+        },
+        {
+            "title": "Introduction au scan de ports",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1203721-introduction-au-scan-de-ports",
+            "book_link": "/book_files/200012-introduction-au-scan-de-ports.pdf",
+            "thumbnail_link": "/thumbnails/200012-introduction-au-scan-de-ports.pdf.png"
+        },
+        {
+            "title": "Introduction aux algorigrammes",
+            "size": 1.3,
+            "course_link": "https://openclassrooms.com/fr/courses/489302-introduction-aux-algorigrammes",
+            "book_link": "/book_files/612438-introduction-aux-algorigrammes.pdf",
+            "thumbnail_link": "/thumbnails/612438-introduction-aux-algorigrammes.pdf.png"
+        },
+        {
+            "title": "Introduction aux op\u00e9rateurs de bits",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1098101-introduction-aux-operateurs-de-bits",
+            "book_link": "/book_files/32351-introduction-aux-operateurs-de-bits.pdf",
+            "thumbnail_link": "/thumbnails/32351-introduction-aux-operateurs-de-bits.pdf.png"
+        },
+        {
+            "title": "Irssi, le client IRC du futur",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1188751-irssi-le-client-irc-du-futur",
+            "book_link": "/book_files/38486-irssi-le-client-irc-du-futur.pdf",
+            "thumbnail_link": "/thumbnails/38486-irssi-le-client-irc-du-futur.pdf.png"
+        },
+        {
+            "title": "Jouer \u00e0 Unreal Tournament GOTY sur Linux",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1137201-jouer-a-unreal-tournament-goty-sur-linux",
+            "book_link": "/book_files/38145-jouer-a-unreal-tournament-goty-sur-linux.pdf",
+            "thumbnail_link": "/thumbnails/38145-jouer-a-unreal-tournament-goty-sur-linux.pdf.png"
+        },
+        {
+            "title": "jQuery, dynamisez vos pages plus simplement !",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1591336-jquery-dynamisez-vos-pages-plus-simplement",
+            "book_link": "/book_files/683621-jquery-dynamisez-vos-pages-plus-simplement.pdf",
+            "thumbnail_link": "/thumbnails/683621-jquery-dynamisez-vos-pages-plus-simplement.pdf.png"
+        },
+        {
+            "title": "jQuery : \u00e9crivez moins pour faire plus !",
+            "size": 1.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1424551-jquery-ecrivez-moins-pour-faire-plus",
+            "book_link": "/book_files/160891-jquery-ecrivez-moins-pour-faire-plus.pdf",
+            "thumbnail_link": "/thumbnails/160891-jquery-ecrivez-moins-pour-faire-plus.pdf.png"
+        },
+        {
+            "title": "L'accessibilit\u00e9 web",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1304776-laccessibilite-web",
+            "book_link": "/book_files/760922-l-accessibilite-web.pdf",
+            "thumbnail_link": "/thumbnails/760922-l-accessibilite-web.pdf.png"
+        },
+        {
+            "title": "L'alg\u00e8bre de Boole",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1235721-lalgebre-de-boole",
+            "book_link": "/book_files/342264-l-algebre-de-boole.pdf",
+            "thumbnail_link": "/thumbnails/342264-l-algebre-de-boole.pdf.png"
+        },
+        {
+            "title": "L'algorithme min-max",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1202501-lalgorithme-min-max",
+            "book_link": "/book_files/195327-l-algorithme-min-max.pdf",
+            "thumbnail_link": "/thumbnails/195327-l-algorithme-min-max.pdf.png"
+        },
+        {
+            "title": "L'Axe Parser",
+            "size": 5.5,
+            "course_link": "https://openclassrooms.com/fr/courses/759730-laxe-parser",
+            "book_link": "/book_files/400701-l-axe-parser.pdf",
+            "thumbnail_link": "/thumbnails/400701-l-axe-parser.pdf.png"
+        },
+        {
+            "title": "L'\u00e9cran graphique en TI-Basic",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1328291-lecran-graphique-en-ti-basic",
+            "book_link": "/book_files/108662-l-ecran-graphique-en-ti-basic.pdf",
+            "thumbnail_link": "/thumbnails/108662-l-ecran-graphique-en-ti-basic.pdf.png"
+        },
+        {
+            "title": "L'\u00e9lectronique de z\u00e9ro",
+            "size": 5.5,
+            "course_link": "https://openclassrooms.com/fr/courses/724810-lelectronique-de-zero",
+            "book_link": "/book_files/483697-l-electronique-de-zero.pdf",
+            "thumbnail_link": "/thumbnails/483697-l-electronique-de-zero.pdf.png"
+        },
+        {
+            "title": "L'\u00e9mulation console",
+            "size": 2.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1498816-lemulation-console",
+            "book_link": "/book_files/555021-l-emulation-console.pdf",
+            "thumbnail_link": "/thumbnails/555021-l-emulation-console.pdf.png"
+        },
+        {
+            "title": "L'idle port scan",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1216086-lidle-port-scan",
+            "book_link": "/book_files/221331-l-idle-port-scan.pdf",
+            "thumbnail_link": "/thumbnails/221331-l-idle-port-scan.pdf.png"
+        },
+        {
+            "title": "L'orthotypographie\u00a0: bien \u00e9crire pour bien \u00eatre lu",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1276981-lorthotypographie-bien-ecrire-pour-bien-etre-lu",
+            "book_link": "/book_files/454279-l-orthotypographie-bien-ecrire-pour-bien-etre-lu.pdf",
+            "thumbnail_link": "/thumbnails/454279-l-orthotypographie-bien-ecrire-pour-bien-etre-lu.pdf.png"
+        },
+        {
+            "title": "La balise <canvas> avec JavaScript",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1282286-la-balise-canvas-avec-javascript",
+            "book_link": "/book_files/533489-la-balise-canvas-avec-javascript.pdf",
+            "thumbnail_link": "/thumbnails/533489-la-balise-canvas-avec-javascript.pdf.png"
+        },
+        {
+            "title": "La chimie \u00e0 partir de z\u00e9ro",
+            "size": 1.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1457206-la-chimie-a-partir-de-zero",
+            "book_link": "/book_files/486043-la-chimie-a-partir-de-zero.pdf",
+            "thumbnail_link": "/thumbnails/486043-la-chimie-a-partir-de-zero.pdf.png"
+        },
+        {
+            "title": "La commande sed",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1244956-la-commande-sed",
+            "book_link": "/book_files/287602-la-commande-sed.pdf",
+            "thumbnail_link": "/thumbnails/287602-la-commande-sed.pdf.png"
+        },
+        {
+            "title": "La const-correctness expliqu\u00e9e aux Z\u00e9ros",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1273016-la-const-correctness-expliquee-aux-zeros",
+            "book_link": "/book_files/421977-la-const-correctness-expliquee-aux-zeros.pdf",
+            "thumbnail_link": "/thumbnails/421977-la-const-correctness-expliquee-aux-zeros.pdf.png"
+        },
+        {
+            "title": "La cryptographie asym\u00e9trique : RSA",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1362801-la-cryptographie-asymetrique-rsa",
+            "book_link": "/book_files/2170-la-cryptographie-asymetrique-rsa.pdf",
+            "thumbnail_link": "/thumbnails/2170-la-cryptographie-asymetrique-rsa.pdf.png"
+        },
+        {
+            "title": "La cryptographie facile avec PGP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1112771-la-cryptographie-facile-avec-pgp",
+            "book_link": "/book_files/33316-la-cryptographie-facile-avec-pgp.pdf",
+            "thumbnail_link": "/thumbnails/33316-la-cryptographie-facile-avec-pgp.pdf.png"
+        },
+        {
+            "title": "La g\u00e9om\u00e9trie plane",
+            "size": 4.9,
+            "course_link": "https://openclassrooms.com/fr/courses/816675-la-geometrie-plane",
+            "book_link": "/book_files/729293-la-geometrie-plane.pdf",
+            "thumbnail_link": "/thumbnails/729293-la-geometrie-plane.pdf.png"
+        },
+        {
+            "title": "La gestion des erreurs en C",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1296141-la-gestion-des-erreurs-en-c",
+            "book_link": "/book_files/648821-la-gestion-des-erreurs-en-c.pdf",
+            "thumbnail_link": "/thumbnails/648821-la-gestion-des-erreurs-en-c.pdf.png"
+        },
+        {
+            "title": "La gestion des erreurs et des probl\u00e8mes HTML",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/593026-la-gestion-des-erreurs-et-des-problemes-html",
+            "book_link": "/book_files/209136-la-gestion-des-erreurs-et-des-problemes-html.pdf",
+            "thumbnail_link": "/thumbnails/209136-la-gestion-des-erreurs-et-des-problemes-html.pdf.png"
+        },
+        {
+            "title": "La gestion du joystick avec la SDL",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/373115-la-gestion-du-joystick-avec-la-sdl",
+            "book_link": "/book_files/473200-la-gestion-du-joystick-avec-la-sdl.pdf",
+            "thumbnail_link": "/thumbnails/473200-la-gestion-du-joystick-avec-la-sdl.pdf.png"
+        },
+        {
+            "title": "La percolation",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1298691-la-percolation",
+            "book_link": "/book_files/703938-la-percolation.pdf",
+            "thumbnail_link": "/thumbnails/703938-la-percolation.pdf.png"
+        },
+        {
+            "title": "La Physique-Chimie en Seconde",
+            "size": 6.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1449256-la-physique-chimie-en-seconde",
+            "book_link": "/book_files/351894-la-physique-chimie-en-seconde.pdf",
+            "thumbnail_link": "/thumbnails/351894-la-physique-chimie-en-seconde.pdf.png"
+        },
+        {
+            "title": "La programmation avec Autoit",
+            "size": 5.5,
+            "course_link": "https://openclassrooms.com/fr/courses/148061-la-programmation-avec-autoit",
+            "book_link": "/book_files/228547-la-programmation-avec-autoit.pdf",
+            "thumbnail_link": "/thumbnails/228547-la-programmation-avec-autoit.pdf.png"
+        },
+        {
+            "title": "La programmation ? Facile avec Ada 95 !",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1493561-la-programmation-facile-avec-ada-95",
+            "book_link": "/book_files/3478-la-programmation-facile-avec-ada-95.pdf",
+            "thumbnail_link": "/thumbnails/3478-la-programmation-facile-avec-ada-95.pdf.png"
+        },
+        {
+            "title": "La programmation r\u00e9seau en .NET",
+            "size": 3.3,
+            "course_link": "https://openclassrooms.com/fr/courses/379507-la-programmation-reseau-en-net",
+            "book_link": "/book_files/738323-la-programmation-reseau-en-net.pdf",
+            "thumbnail_link": "/thumbnails/738323-la-programmation-reseau-en-net.pdf.png"
+        },
+        {
+            "title": "La programmation scientifique avec Python",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1503446-la-programmation-scientifique-avec-python",
+            "book_link": "/book_files/547399-la-programmation-scientifique-avec-python.pdf",
+            "thumbnail_link": "/thumbnails/547399-la-programmation-scientifique-avec-python.pdf.png"
+        },
+        {
+            "title": "La programmation syst\u00e8me en C sous Unix",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1513891-la-programmation-systeme-en-c-sous-unix",
+            "book_link": "/book_files/385544-la-programmation-systeme-en-c-sous-unix.pdf",
+            "thumbnail_link": "/thumbnails/385544-la-programmation-systeme-en-c-sous-unix.pdf.png"
+        },
+        {
+            "title": "La reconnaissance vocale dans son application",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1199426-la-reconnaissance-vocale-dans-son-application",
+            "book_link": "/book_files/184477-la-reconnaissance-vocale-dans-son-application.pdf",
+            "thumbnail_link": "/thumbnails/184477-la-reconnaissance-vocale-dans-son-application.pdf.png"
+        },
+        {
+            "title": "La redirection HTTP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1086686-la-redirection-http",
+            "book_link": "/book_files/38380-la-redirection-http.pdf",
+            "thumbnail_link": "/thumbnails/38380-la-redirection-http.pdf.png"
+        },
+        {
+            "title": "La repr\u00e9sentation intervallaire",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1134001-la-representation-intervallaire",
+            "book_link": "/book_files/38130-la-representation-intervallaire.pdf",
+            "thumbnail_link": "/thumbnails/38130-la-representation-intervallaire.pdf.png"
+        },
+        {
+            "title": "La saisie s\u00e9curis\u00e9e avec scanf ?",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1228051-la-saisie-securisee-avec-scanf",
+            "book_link": "/book_files/133769-la-saisie-securisee-avec-scanf.pdf",
+            "thumbnail_link": "/thumbnails/133769-la-saisie-securisee-avec-scanf.pdf.png"
+        },
+        {
+            "title": "La v\u00e9rit\u00e9 sur les tableaux et pointeurs en C",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1217101-la-verite-sur-les-tableaux-et-pointeurs-en-c",
+            "book_link": "/book_files/344044-la-verite-sur-les-tableaux-et-pointeurs-en-c.pdf",
+            "thumbnail_link": "/thumbnails/344044-la-verite-sur-les-tableaux-et-pointeurs-en-c.pdf.png"
+        },
+        {
+            "title": "La virtualisation sous Linux",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1145536-la-virtualisation-sous-linux",
+            "book_link": "/book_files/35665-la-virtualisation-sous-linux.pdf",
+            "thumbnail_link": "/thumbnails/35665-la-virtualisation-sous-linux.pdf.png"
+        },
+        {
+            "title": "Le backtracking par l'exemple : r\u00e9soudre un sudoku",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1256706-le-backtracking-par-lexemple-resoudre-un-sudoku",
+            "book_link": "/book_files/360004-le-backtracking-par-l-exemple-resoudre-un-sudoku.pdf",
+            "thumbnail_link": "/thumbnails/360004-le-backtracking-par-l-exemple-resoudre-un-sudoku.pdf.png"
+        },
+        {
+            "title": "Le Camera Mapping avec Blender",
+            "size": 2.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1229691-le-camera-mapping-avec-blender",
+            "book_link": "/book_files/240425-le-camera-mapping-avec-blender.pdf",
+            "thumbnail_link": "/thumbnails/240425-le-camera-mapping-avec-blender.pdf.png"
+        },
+        {
+            "title": "Le dessin facile avec les Casio Graph 35+ et 25+",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1141056-le-dessin-facile-avec-les-casio-graph-35-et-25",
+            "book_link": "/book_files/32448-le-dessin-facile-avec-les-casio-graph-35-et-25.pdf",
+            "thumbnail_link": "/thumbnails/32448-le-dessin-facile-avec-les-casio-graph-35-et-25.pdf.png"
+        },
+        {
+            "title": "Le d\u00e9veloppement de jeux vid\u00e9o avec XNA",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1482001-le-developpement-de-jeux-video-avec-xna",
+            "book_link": "/book_files/536983-le-developpement-de-jeux-video-avec-xna.pdf",
+            "thumbnail_link": "/thumbnails/536983-le-developpement-de-jeux-video-avec-xna.pdf.png"
+        },
+        {
+            "title": "Le framework Executor",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1278096-le-framework-executor",
+            "book_link": "/book_files/509342-le-framework-executor.pdf",
+            "thumbnail_link": "/thumbnails/509342-le-framework-executor.pdf.png"
+        },
+        {
+            "title": "Le GUI avec Qt, la suite",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1355051-le-gui-avec-qt-la-suite",
+            "book_link": "/book_files/128040-le-gui-avec-qt-la-suite.pdf",
+            "thumbnail_link": "/thumbnails/128040-le-gui-avec-qt-la-suite.pdf.png"
+        },
+        {
+            "title": "Le guide du contributeur",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1198651-le-guide-du-contributeur",
+            "book_link": "/book_files/167502-le-guide-du-contributeur.pdf",
+            "thumbnail_link": "/thumbnails/167502-le-guide-du-contributeur.pdf.png"
+        },
+        {
+            "title": "Le JavaScript moderne",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1297471-le-javascript-moderne",
+            "book_link": "/book_files/654205-le-javascript-moderne.pdf",
+            "thumbnail_link": "/thumbnails/654205-le-javascript-moderne.pdf.png"
+        },
+        {
+            "title": "Le multiboot sous GNU/Linux",
+            "size": 3.4,
+            "course_link": "https://openclassrooms.com/fr/courses/213631-le-multiboot-sous-gnu-linux",
+            "book_link": "/book_files/295308-le-multiboot-sous-gnu-linux.pdf",
+            "thumbnail_link": "/thumbnails/295308-le-multiboot-sous-gnu-linux.pdf.png"
+        },
+        {
+            "title": "Le pathfinding avec Dijkstra",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1125906-le-pathfinding-avec-dijkstra",
+            "book_link": "/book_files/35706-le-pathfinding-avec-dijkstra.pdf",
+            "thumbnail_link": "/thumbnails/35706-le-pathfinding-avec-dijkstra.pdf.png"
+        },
+        {
+            "title": "Le pattern Decorator en Python",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1257506-le-pattern-decorator-en-python",
+            "book_link": "/book_files/368501-le-pattern-decorator-en-python.pdf",
+            "thumbnail_link": "/thumbnails/368501-le-pattern-decorator-en-python.pdf.png"
+        },
+        {
+            "title": "Le protocole HTTP avec QtNetwork",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/565769-le-protocole-http-avec-qtnetwork",
+            "book_link": "/book_files/225114-le-protocole-http-avec-qtnetwork.pdf",
+            "thumbnail_link": "/thumbnails/225114-le-protocole-http-avec-qtnetwork.pdf.png"
+        },
+        {
+            "title": "Le r\u00e9f\u00e9rencement de son site web",
+            "size": 3.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1592366-le-referencement-de-son-site-web",
+            "book_link": "/book_files/704858-le-referencement-de-son-site-web.pdf",
+            "thumbnail_link": "/thumbnails/704858-le-referencement-de-son-site-web.pdf.png"
+        },
+        {
+            "title": "Le Safe Mode sous PHP",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1202716-le-safe-mode-sous-php",
+            "book_link": "/book_files/197053-le-safe-mode-sous-php.pdf",
+            "thumbnail_link": "/thumbnails/197053-le-safe-mode-sous-php.pdf.png"
+        },
+        {
+            "title": "Le syst\u00e8me de micro-paiement Flattr",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1240811-le-systeme-de-micro-paiement-flattr",
+            "book_link": "/book_files/307309-le-systeme-de-micro-paiement-flattr.pdf",
+            "thumbnail_link": "/thumbnails/307309-le-systeme-de-micro-paiement-flattr.pdf.png"
+        },
+        {
+            "title": "Le tri \u00e0 bulles",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1160591-le-tri-a-bulles",
+            "book_link": "/book_files/60409-le-tri-a-bulles.pdf",
+            "thumbnail_link": "/thumbnails/60409-le-tri-a-bulles.pdf.png"
+        },
+        {
+            "title": "Le tri \u00e0 paniers",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1111146-le-tri-a-paniers",
+            "book_link": "/book_files/36649-le-tri-a-paniers.pdf",
+            "thumbnail_link": "/thumbnails/36649-le-tri-a-paniers.pdf.png"
+        },
+        {
+            "title": "Le tri par s\u00e9lection",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1207336-le-tri-par-selection",
+            "book_link": "/book_files/213681-le-tri-par-selection.pdf",
+            "thumbnail_link": "/thumbnails/213681-le-tri-par-selection.pdf.png"
+        },
+        {
+            "title": "Le tri par tas",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1232036-le-tri-par-tas",
+            "book_link": "/book_files/261748-le-tri-par-tas.pdf",
+            "thumbnail_link": "/thumbnails/261748-le-tri-par-tas.pdf.png"
+        },
+        {
+            "title": "Le tri rapide : QSort",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1131106-le-tri-rapide-qsort",
+            "book_link": "/book_files/36691-le-tri-rapide-qsort.pdf",
+            "thumbnail_link": "/thumbnails/36691-le-tri-rapide-qsort.pdf.png"
+        },
+        {
+            "title": "Le typage : pr\u00e9sentation th\u00e9matique et historique",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1129721-le-typage-presentation-thematique-et-historique",
+            "book_link": "/book_files/37366-le-typage-presentation-thematique-et-historique.pdf",
+            "thumbnail_link": "/thumbnails/37366-le-typage-presentation-thematique-et-historique.pdf.png"
+        },
+        {
+            "title": "Lecture et \u00e9criture dans les fichiers en C++",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1133001-lecture-et-ecriture-dans-les-fichiers-en-c",
+            "book_link": "/book_files/36367-lecture-et-ecriture-dans-les-fichiers-en-c.pdf",
+            "thumbnail_link": "/thumbnails/36367-lecture-et-ecriture-dans-les-fichiers-en-c.pdf.png"
+        },
+        {
+            "title": "Lecture et \u00e9criture de fichiers en mode binaire",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1248601-lecture-et-ecriture-de-fichiers-en-mode-binaire",
+            "book_link": "/book_files/313530-lecture-et-ecriture-de-fichiers-en-mode-binaire.pdf",
+            "thumbnail_link": "/thumbnails/313530-lecture-et-ecriture-de-fichiers-en-mode-binaire.pdf.png"
+        },
+        {
+            "title": "Les acides amin\u00e9s",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1265306-les-acides-amines",
+            "book_link": "/book_files/430950-les-acides-amines.pdf",
+            "thumbnail_link": "/thumbnails/430950-les-acides-amines.pdf.png"
+        },
+        {
+            "title": "Les ACL (Access Control Lists) sous Linux",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1249116-les-acl-access-control-lists-sous-linux",
+            "book_link": "/book_files/319961-les-acl-access-control-lists-sous-linux.pdf",
+            "thumbnail_link": "/thumbnails/319961-les-acl-access-control-lists-sous-linux.pdf.png"
+        },
+        {
+            "title": "Les animations optimis\u00e9es avec SDL",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1215481-les-animations-optimisees-avec-sdl",
+            "book_link": "/book_files/220089-les-animations-optimisees-avec-sdl.pdf",
+            "thumbnail_link": "/thumbnails/220089-les-animations-optimisees-avec-sdl.pdf.png"
+        },
+        {
+            "title": "Les applications web avec JavaFX",
+            "size": 3.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1469021-les-applications-web-avec-javafx",
+            "book_link": "/book_files/530449-les-applications-web-avec-javafx.pdf",
+            "thumbnail_link": "/thumbnails/530449-les-applications-web-avec-javafx.pdf.png"
+        },
+        {
+            "title": "Les arbres de Galton-Watson",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1273481-les-arbres-de-galton-watson",
+            "book_link": "/book_files/515240-les-arbres-de-galton-watson.pdf",
+            "thumbnail_link": "/thumbnails/515240-les-arbres-de-galton-watson.pdf.png"
+        },
+        {
+            "title": "Les bases d'Excel",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1151816-les-bases-dexcel",
+            "book_link": "/book_files/33103-les-bases-d-excel.pdf",
+            "thumbnail_link": "/thumbnails/33103-les-bases-d-excel.pdf.png"
+        },
+        {
+            "title": "Les bases du FTP sous MS-DOS",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1063476-les-bases-du-ftp-sous-ms-dos",
+            "book_link": "/book_files/33179-les-bases-du-ftp-sous-ms-dos.pdf",
+            "thumbnail_link": "/thumbnails/33179-les-bases-du-ftp-sous-ms-dos.pdf.png"
+        },
+        {
+            "title": "Les Bookmarklets ou comment modifier la page d'un site depuis la barre d'adresse",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1221306-les-bookmarklets-ou-comment-modifier-la-page-dun-site-depuis-la-barre-dadresse",
+            "book_link": "/book_files/167589-les-bookmarklets-ou-comment-modifier-la-page-d-un-site-depuis-la-barre-d-adresse.pdf",
+            "thumbnail_link": "/thumbnails/167589-les-bookmarklets-ou-comment-modifier-la-page-d-un-site-depuis-la-barre-d-adresse.pdf.png"
+        },
+        {
+            "title": "Les calculs en binaire",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1214196-les-calculs-en-binaire",
+            "book_link": "/book_files/155460-les-calculs-en-binaire.pdf",
+            "thumbnail_link": "/thumbnails/155460-les-calculs-en-binaire.pdf.png"
+        },
+        {
+            "title": "Les captchas anti-bot",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1147031-les-captchas-anti-bot",
+            "book_link": "/book_files/56201-les-captchas-anti-bot.pdf",
+            "thumbnail_link": "/thumbnails/56201-les-captchas-anti-bot.pdf.png"
+        },
+        {
+            "title": "Les ChMod",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1088326-les-chmod",
+            "book_link": "/book_files/36115-les-chmod.pdf",
+            "thumbnail_link": "/thumbnails/36115-les-chmod.pdf.png"
+        },
+        {
+            "title": "Les closures en Javascript",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1173401-les-closures-en-javascript",
+            "book_link": "/book_files/123380-les-closures-en-javascript.pdf",
+            "thumbnail_link": "/thumbnails/123380-les-closures-en-javascript.pdf.png"
+        },
+        {
+            "title": "Les Conteneurs de la STL",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1270371-les-conteneurs-de-la-stl",
+            "book_link": "/book_files/419199-les-conteneurs-de-la-stl.pdf",
+            "thumbnail_link": "/thumbnails/419199-les-conteneurs-de-la-stl.pdf.png"
+        },
+        {
+            "title": "Les diff\u00e9rents types d'applications pouvant \u00eatre d\u00e9velopp\u00e9es avec le C#",
+            "size": 4.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1293766-les-differents-types-dapplications-pouvant-etre-developpees-avec-le-c",
+            "book_link": "/book_files/579765-les-differents-types-d-applications-pouvant-etre-developpees-avec-le-c.pdf",
+            "thumbnail_link": "/thumbnails/579765-les-differents-types-d-applications-pouvant-etre-developpees-avec-le-c.pdf.png"
+        },
+        {
+            "title": "Les dimensions en g\u00e9om\u00e9trie",
+            "size": 3.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1659091-les-dimensions-en-geometrie",
+            "book_link": "/book_files/546660-les-dimensions-en-geometrie.pdf",
+            "thumbnail_link": "/thumbnails/546660-les-dimensions-en-geometrie.pdf.png"
+        },
+        {
+            "title": "Les displacements\u00a0: techniques avanc\u00e9es",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1225691-les-displacements-techniques-avancees",
+            "book_link": "/book_files/596995-les-displacements-techniques-avancees.pdf",
+            "thumbnail_link": "/thumbnails/596995-les-displacements-techniques-avancees.pdf.png"
+        },
+        {
+            "title": "Les espaces de noms en PHP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1217456-les-espaces-de-noms-en-php",
+            "book_link": "/book_files/217599-les-espaces-de-noms-en-php.pdf",
+            "thumbnail_link": "/thumbnails/217599-les-espaces-de-noms-en-php.pdf.png"
+        },
+        {
+            "title": "Les hacks CSS pour Internet Explorer",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1066176-les-hacks-css-pour-internet-explorer",
+            "book_link": "/book_files/36505-les-hacks-css-pour-internet-explorer.pdf",
+            "thumbnail_link": "/thumbnails/36505-les-hacks-css-pour-internet-explorer.pdf.png"
+        },
+        {
+            "title": "Les images en 3D",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1362146-les-images-en-3d",
+            "book_link": "/book_files/221680-les-images-en-3d.pdf",
+            "thumbnail_link": "/thumbnails/221680-les-images-en-3d.pdf.png"
+        },
+        {
+            "title": "Les interfaces graphiques avec OCaml",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1165856-les-interfaces-graphiques-avec-ocaml",
+            "book_link": "/book_files/86969-les-interfaces-graphiques-avec-ocaml.pdf",
+            "thumbnail_link": "/thumbnails/86969-les-interfaces-graphiques-avec-ocaml.pdf.png"
+        },
+        {
+            "title": "Les maths pour tous !",
+            "size": 2.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1404741-les-maths-pour-tous",
+            "book_link": "/book_files/344877-les-maths-pour-tous.pdf",
+            "thumbnail_link": "/thumbnails/344877-les-maths-pour-tous.pdf.png"
+        },
+        {
+            "title": "Les noms de domaine",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1216321-les-noms-de-domaine",
+            "book_link": "/book_files/203191-les-noms-de-domaine.pdf",
+            "thumbnail_link": "/thumbnails/203191-les-noms-de-domaine.pdf.png"
+        },
+        {
+            "title": "Les piles et les files en C++",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1123101-les-piles-et-les-files-en-c",
+            "book_link": "/book_files/33398-les-piles-et-les-files-en-c.pdf",
+            "thumbnail_link": "/thumbnails/33398-les-piles-et-les-files-en-c.pdf.png"
+        },
+        {
+            "title": "Les premiers algorithmes de chiffrement",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1288926-les-premiers-algorithmes-de-chiffrement",
+            "book_link": "/book_files/548458-les-premiers-algorithmes-de-chiffrement.pdf",
+            "thumbnail_link": "/thumbnails/548458-les-premiers-algorithmes-de-chiffrement.pdf.png"
+        },
+        {
+            "title": "Les requ\u00eates HTTP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1118811-les-requetes-http",
+            "book_link": "/book_files/35613-les-requetes-http.pdf",
+            "thumbnail_link": "/thumbnails/35613-les-requetes-http.pdf.png"
+        },
+        {
+            "title": "Les r\u00e9seaux de z\u00e9ro",
+            "size": 4.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1561696-les-reseaux-de-zero",
+            "book_link": "/book_files/160629-les-reseaux-de-zero.pdf",
+            "thumbnail_link": "/thumbnails/160629-les-reseaux-de-zero.pdf.png"
+        },
+        {
+            "title": "Les scripts sous Photoshop",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1112076-les-scripts-sous-photoshop",
+            "book_link": "/book_files/36731-les-scripts-sous-photoshop.pdf",
+            "thumbnail_link": "/thumbnails/36731-les-scripts-sous-photoshop.pdf.png"
+        },
+        {
+            "title": "Les services Web",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/219329-les-services-web",
+            "book_link": "/book_files/203276-les-services-web.pdf",
+            "thumbnail_link": "/thumbnails/203276-les-services-web.pdf.png"
+        },
+        {
+            "title": "Les shaders en GLSL",
+            "size": 1.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1319481-les-shaders-en-glsl",
+            "book_link": "/book_files/8894-les-shaders-en-glsl.pdf",
+            "thumbnail_link": "/thumbnails/8894-les-shaders-en-glsl.pdf.png"
+        },
+        {
+            "title": "Les suites de Syracuse",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1172926-les-suites-de-syracuse",
+            "book_link": "/book_files/92268-les-suites-de-syracuse.pdf",
+            "thumbnail_link": "/thumbnails/92268-les-suites-de-syracuse.pdf.png"
+        },
+        {
+            "title": "Les tests unitaires en Java",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1301341-les-tests-unitaires-en-java",
+            "book_link": "/book_files/704797-les-tests-unitaires-en-java.pdf",
+            "thumbnail_link": "/thumbnails/704797-les-tests-unitaires-en-java.pdf.png"
+        },
+        {
+            "title": "Les Threads en .NET",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1243901-les-threads-en-net",
+            "book_link": "/book_files/275673-les-threads-en-net.pdf",
+            "thumbnail_link": "/thumbnails/275673-les-threads-en-net.pdf.png"
+        },
+        {
+            "title": "Les tours de Hano\u00ef",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1195001-les-tours-de-hanoi",
+            "book_link": "/book_files/126911-les-tours-de-hanoi.pdf",
+            "thumbnail_link": "/thumbnails/126911-les-tours-de-hanoi.pdf.png"
+        },
+        {
+            "title": "Lumi\u00e8re sur la lumi\u00e8re",
+            "size": 4.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1486931-lumiere-sur-la-lumiere",
+            "book_link": "/book_files/552251-lumiere-sur-la-lumiere.pdf",
+            "thumbnail_link": "/thumbnails/552251-lumiere-sur-la-lumiere.pdf.png"
+        },
+        {
+            "title": "Ma\u00eetriser l'outil plume et les trac\u00e9s",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1148246-maitriser-loutil-plume-et-les-traces",
+            "book_link": "/book_files/34827-maitriser-l-outil-plume-et-les-traces.pdf",
+            "thumbnail_link": "/thumbnails/34827-maitriser-l-outil-plume-et-les-traces.pdf.png"
+        },
+        {
+            "title": "Ma\u00eetrisez la 2D avec Photoshop",
+            "size": 4.5,
+            "course_link": "https://openclassrooms.com/fr/courses/761582-maitrisez-la-2d-avec-photoshop",
+            "book_link": "/book_files/346140-maitrisez-la-2d-avec-photoshop.pdf",
+            "thumbnail_link": "/thumbnails/346140-maitrisez-la-2d-avec-photoshop.pdf.png"
+        },
+        {
+            "title": "Ma\u00eetrisez les bases de donn\u00e9es avec QtSQL",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1238171-maitrisez-les-bases-de-donnees-avec-qtsql",
+            "book_link": "/book_files/267200-maitrisez-les-bases-de-donnees-avec-qtsql.pdf",
+            "thumbnail_link": "/thumbnails/267200-maitrisez-les-bases-de-donnees-avec-qtsql.pdf.png"
+        },
+        {
+            "title": "Manier la trigonom\u00e9trie",
+            "size": 3.9,
+            "course_link": "https://openclassrooms.com/fr/courses/461114-manier-la-trigonometrie",
+            "book_link": "/book_files/554747-manier-la-trigonometrie.pdf",
+            "thumbnail_link": "/thumbnails/554747-manier-la-trigonometrie.pdf.png"
+        },
+        {
+            "title": "Manipulation d'extensions avec la base de registre",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1317051-manipulation-dextensions-avec-la-base-de-registre",
+            "book_link": "/book_files/5138-manipulation-d-extensions-avec-la-base-de-registre.pdf",
+            "thumbnail_link": "/thumbnails/5138-manipulation-d-extensions-avec-la-base-de-registre.pdf.png"
+        },
+        {
+            "title": "Manipulez les paquets r\u00e9seau avec Scapy",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1291886-manipulez-les-paquets-reseau-avec-scapy",
+            "book_link": "/book_files/568537-manipulez-les-paquets-reseau-avec-scapy.pdf",
+            "thumbnail_link": "/thumbnails/568537-manipulez-les-paquets-reseau-avec-scapy.pdf.png"
+        },
+        {
+            "title": "M\u00e9canique de z\u00e9ro",
+            "size": 3.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1598451-mecanique-de-zero",
+            "book_link": "/book_files/715168-mecanique-de-zero.pdf",
+            "thumbnail_link": "/thumbnails/715168-mecanique-de-zero.pdf.png"
+        },
+        {
+            "title": "Menus en onglets",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1117751-menus-en-onglets",
+            "book_link": "/book_files/37341-menus-en-onglets.pdf",
+            "thumbnail_link": "/thumbnails/37341-menus-en-onglets.pdf.png"
+        },
+        {
+            "title": "Mettez des accents dans vos programmes avec le type wchar_t",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1243616-mettez-des-accents-dans-vos-programmes-avec-le-type-wchar-t",
+            "book_link": "/book_files/275506-mettez-des-accents-dans-vos-programmes-avec-le-type-wchar-t.pdf",
+            "thumbnail_link": "/thumbnails/275506-mettez-des-accents-dans-vos-programmes-avec-le-type-wchar-t.pdf.png"
+        },
+        {
+            "title": "Mettre des PC en r\u00e9seau",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1119046-mettre-des-pc-en-reseau",
+            "book_link": "/book_files/37719-mettre-des-pc-en-reseau.pdf",
+            "thumbnail_link": "/thumbnails/37719-mettre-des-pc-en-reseau.pdf.png"
+        },
+        {
+            "title": "Mise en Page avec InDesign",
+            "size": 2.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1434641-mise-en-page-avec-indesign",
+            "book_link": "/book_files/461805-mise-en-page-avec-indesign.pdf",
+            "thumbnail_link": "/thumbnails/461805-mise-en-page-avec-indesign.pdf.png"
+        },
+        {
+            "title": "Mise en place d'un Serveur DHCP sous Linux",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/2752866-mise-en-place-dun-serveur-dhcp-sous-linux",
+            "book_link": "/book_files/277701-mise-en-place-d-un-serveur-dhcp-sous-linux.pdf",
+            "thumbnail_link": "/thumbnails/277701-mise-en-place-d-un-serveur-dhcp-sous-linux.pdf.png"
+        },
+        {
+            "title": "Mise en place des serveurs Apache et DNS",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1240136-mise-en-place-des-serveurs-apache-et-dns",
+            "book_link": "/book_files/307345-mise-en-place-des-serveurs-apache-et-dns.pdf",
+            "thumbnail_link": "/thumbnails/307345-mise-en-place-des-serveurs-apache-et-dns.pdf.png"
+        },
+        {
+            "title": "Mod\u00e9lisation par r\u00e9volution",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1210836-modelisation-par-revolution",
+            "book_link": "/book_files/227937-modelisation-par-revolution.pdf",
+            "thumbnail_link": "/thumbnails/227937-modelisation-par-revolution.pdf.png"
+        },
+        {
+            "title": "Mod\u00e9lisez un a\u00e9roport pour Flight Simulator X !",
+            "size": 1.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1541601-modelisez-un-aeroport-pour-flight-simulator-x",
+            "book_link": "/book_files/1042-modelisez-un-aeroport-pour-flight-simulator-x.pdf",
+            "thumbnail_link": "/thumbnails/1042-modelisez-un-aeroport-pour-flight-simulator-x.pdf.png"
+        },
+        {
+            "title": "Modifier l'apparence d'une infobulle",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1087316-modifier-lapparence-dune-infobulle",
+            "book_link": "/book_files/34410-modifier-l-apparence-d-une-infobulle.pdf",
+            "thumbnail_link": "/thumbnails/34410-modifier-l-apparence-d-une-infobulle.pdf.png"
+        },
+        {
+            "title": "Montez votre site dans le cloud avec Google App Engine",
+            "size": 6.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1052996-montez-votre-site-dans-le-cloud-avec-google-app-engine",
+            "book_link": "/book_files/761998-montez-votre-site-dans-le-cloud-avec-google-app-engine.pdf",
+            "thumbnail_link": "/thumbnails/761998-montez-votre-site-dans-le-cloud-avec-google-app-engine.pdf.png"
+        },
+        {
+            "title": "Mozilla Thunderbird",
+            "size": 4.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1495956-mozilla-thunderbird",
+            "book_link": "/book_files/6456-mozilla-thunderbird.pdf",
+            "thumbnail_link": "/thumbnails/6456-mozilla-thunderbird.pdf.png"
+        },
+        {
+            "title": "Nous descendons tous de Gengis Khan !",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1305011-nous-descendons-tous-de-gengis-khan",
+            "book_link": "/book_files/764876-nous-descendons-tous-de-gengis-khan.pdf",
+            "thumbnail_link": "/thumbnails/764876-nous-descendons-tous-de-gengis-khan.pdf.png"
+        },
+        {
+            "title": "[OCaml] Les flots de donn\u00e9es",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1213971-ocaml-les-flots-de-donnees",
+            "book_link": "/book_files/134696-ocaml-les-flots-de-donnees.pdf",
+            "thumbnail_link": "/thumbnails/134696-ocaml-les-flots-de-donnees.pdf.png"
+        },
+        {
+            "title": "Page d'erreur perso",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1085366-page-derreur-perso",
+            "book_link": "/book_files/34383-page-d-erreur-perso.pdf",
+            "thumbnail_link": "/thumbnails/34383-page-d-erreur-perso.pdf.png"
+        },
+        {
+            "title": "Parcourir les dossiers avec dirent.h",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1198786-parcourir-les-dossiers-avec-dirent-h",
+            "book_link": "/book_files/178902-parcourir-les-dossiers-avec-dirent-h.pdf",
+            "thumbnail_link": "/thumbnails/178902-parcourir-les-dossiers-avec-dirent-h.pdf.png"
+        },
+        {
+            "title": "Parser un format simple en Haskell avec Parsec",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1245861-parser-un-format-simple-en-haskell-avec-parsec",
+            "book_link": "/book_files/303635-parser-un-format-simple-en-haskell-avec-parsec.pdf",
+            "thumbnail_link": "/thumbnails/303635-parser-un-format-simple-en-haskell-avec-parsec.pdf.png"
+        },
+        {
+            "title": "Partitionner son disque dur sous Vista",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1191216-partitionner-son-disque-dur-sous-vista",
+            "book_link": "/book_files/32853-partitionner-son-disque-dur-sous-vista.pdf",
+            "thumbnail_link": "/thumbnails/32853-partitionner-son-disque-dur-sous-vista.pdf.png"
+        },
+        {
+            "title": "Passer du latin1 \u00e0 l'unicode",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1193586-passer-du-latin1-a-lunicode",
+            "book_link": "/book_files/120328-passer-du-latin1-a-l-unicode.pdf",
+            "thumbnail_link": "/thumbnails/120328-passer-du-latin1-a-l-unicode.pdf.png"
+        },
+        {
+            "title": "PDO : comprendre et corriger les erreurs les plus fr\u00e9quentes",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1262531-pdo-comprendre-et-corriger-les-erreurs-les-plus-frequentes",
+            "book_link": "/book_files/336595-pdo-comprendre-et-corriger-les-erreurs-les-plus-frequentes.pdf",
+            "thumbnail_link": "/thumbnails/336595-pdo-comprendre-et-corriger-les-erreurs-les-plus-frequentes.pdf.png"
+        },
+        {
+            "title": "Personnaliser enti\u00e8rement votre Windows XP !",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1114076-personnaliser-entierement-votre-windows-xp",
+            "book_link": "/book_files/37735-personnaliser-entierement-votre-windows-xp.pdf",
+            "thumbnail_link": "/thumbnails/37735-personnaliser-entierement-votre-windows-xp.pdf.png"
+        },
+        {
+            "title": "Petit guide d'utilisation de Twitter",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1211461-petit-guide-dutilisation-de-twitter",
+            "book_link": "/book_files/232499-petit-guide-d-utilisation-de-twitter.pdf",
+            "thumbnail_link": "/thumbnails/232499-petit-guide-d-utilisation-de-twitter.pdf.png"
+        },
+        {
+            "title": "[PHP] Utiliser un d\u00e9bogueur pour PHP : Xdebug",
+            "size": 1.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1170831-php-utiliser-un-debogueur-pour-php-xdebug",
+            "book_link": "/book_files/95248-php-utiliser-un-debogueur-pour-php-xdebug.pdf",
+            "thumbnail_link": "/thumbnails/95248-php-utiliser-un-debogueur-pour-php-xdebug.pdf.png"
+        },
+        {
+            "title": "[PHP5] Comment g\u00e9rer l'absence de surcharge ?",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1180946-php5-comment-gerer-labsence-de-surcharge",
+            "book_link": "/book_files/133027-php5-comment-gerer-l-absence-de-surcharge.pdf",
+            "thumbnail_link": "/thumbnails/133027-php5-comment-gerer-l-absence-de-surcharge.pdf.png"
+        },
+        {
+            "title": "Piloter canvas avec KineticJS",
+            "size": 4.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1672401-piloter-canvas-avec-kineticjs",
+            "book_link": "/book_files/737576-piloter-canvas-avec-kineticjs.pdf",
+            "thumbnail_link": "/thumbnails/737576-piloter-canvas-avec-kineticjs.pdf.png"
+        },
+        {
+            "title": "Plantage au boot suite au formatage d'un OS",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1060866-plantage-au-boot-suite-au-formatage-dun-os",
+            "book_link": "/book_files/34216-plantage-au-boot-suite-au-formatage-d-un-os.pdf",
+            "thumbnail_link": "/thumbnails/34216-plantage-au-boot-suite-au-formatage-d-un-os.pdf.png"
+        },
+        {
+            "title": "Poursuite d'\u00e9tudes apr\u00e8s un DUT",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1260381-poursuite-detudes-apres-un-dut",
+            "book_link": "/book_files/402631-poursuite-d-etudes-apres-un-dut.pdf",
+            "thumbnail_link": "/thumbnails/402631-poursuite-d-etudes-apres-un-dut.pdf.png"
+        },
+        {
+            "title": "POV-Ray",
+            "size": 3.1,
+            "course_link": "https://openclassrooms.com/fr/courses/435367-pov-ray",
+            "book_link": "/book_files/1860-pov-ray.pdf",
+            "thumbnail_link": "/thumbnails/1860-pov-ray.pdf.png"
+        },
+        {
+            "title": "Pratiques avanc\u00e9es et m\u00e9connues en Python",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1174141-pratiques-avancees-et-meconnues-en-python",
+            "book_link": "/book_files/33509-pratiques-avancees-et-meconnues-en-python.pdf",
+            "thumbnail_link": "/thumbnails/33509-pratiques-avancees-et-meconnues-en-python.pdf.png"
+        },
+        {
+            "title": "Premi\u00e8re image Photor\u00e9aliste",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1096046-premiere-image-photorealiste",
+            "book_link": "/book_files/35965-premiere-image-photorealiste.pdf",
+            "thumbnail_link": "/thumbnails/35965-premiere-image-photorealiste.pdf.png"
+        },
+        {
+            "title": "Prenez en main Bootstrap",
+            "size": 8.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1885491-prenez-en-main-bootstrap",
+            "book_link": "/book_files/683140-prenez-en-main-bootstrap.pdf",
+            "thumbnail_link": "/thumbnails/683140-prenez-en-main-bootstrap.pdf.png"
+        },
+        {
+            "title": "Pr\u00e9sentation de biblioth\u00e8que SDL en Java",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1178256-presentation-de-bibliotheque-sdl-en-java",
+            "book_link": "/book_files/90674-presentation-de-bibliotheque-sdl-en-java.pdf",
+            "thumbnail_link": "/thumbnails/90674-presentation-de-bibliotheque-sdl-en-java.pdf.png"
+        },
+        {
+            "title": "Pr\u00e9sentation de KDE : les KIO-slaves",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1110256-presentation-de-kde-les-kio-slaves",
+            "book_link": "/book_files/32411-presentation-de-kde-les-kio-slaves.pdf",
+            "thumbnail_link": "/thumbnails/32411-presentation-de-kde-les-kio-slaves.pdf.png"
+        },
+        {
+            "title": "Pr\u00e9sentez des diaporamas avec PowerPoint",
+            "size": 8.9,
+            "course_link": "https://openclassrooms.com/fr/courses/464829-presentez-des-diaporamas-avec-powerpoint",
+            "book_link": "/book_files/658143-presentez-des-diaporamas-avec-powerpoint.pdf",
+            "thumbnail_link": "/thumbnails/658143-presentez-des-diaporamas-avec-powerpoint.pdf.png"
+        },
+        {
+            "title": "Profilage g\u00e9ographique",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1262011-profilage-geographique",
+            "book_link": "/book_files/422405-profilage-geographique.pdf",
+            "thumbnail_link": "/thumbnails/422405-profilage-geographique.pdf.png"
+        },
+        {
+            "title": "Programmation objet avanc\u00e9e : la conception avant tout (design patterns \u00e0 l'emploi)",
+            "size": 1.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1536431-programmation-objet-avancee-la-conception-avant-tout-design-patterns-a-lemploi",
+            "book_link": "/book_files/647150-programmation-objet-avancee-la-conception-avant-tout-design-patterns-a-l-emploi.pdf",
+            "thumbnail_link": "/thumbnails/647150-programmation-objet-avancee-la-conception-avant-tout-design-patterns-a-l-emploi.pdf.png"
+        },
+        {
+            "title": "Programmation Perl (Modules CPAN)",
+            "size": 1.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1509626-programmation-perl-modules-cpan",
+            "book_link": "/book_files/318130-programmation-perl-modules-cpan.pdf",
+            "thumbnail_link": "/thumbnails/318130-programmation-perl-modules-cpan.pdf.png"
+        },
+        {
+            "title": "Programmer un bot IRC simplement avec ircbot",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1182351-programmer-un-bot-irc-simplement-avec-ircbot",
+            "book_link": "/book_files/102516-programmer-un-bot-irc-simplement-avec-ircbot.pdf",
+            "thumbnail_link": "/thumbnails/102516-programmer-un-bot-irc-simplement-avec-ircbot.pdf.png"
+        },
+        {
+            "title": "Programmez avec le langage C++",
+            "size": 16.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c",
+            "book_link": "/book_files/11406-programmez-avec-le-langage-c.pdf",
+            "thumbnail_link": "/thumbnails/11406-programmez-avec-le-langage-c.pdf.png"
+        },
+        {
+            "title": "Programmez en Objective-C !",
+            "size": 2.7,
+            "course_link": "https://openclassrooms.com/fr/courses/149791-programmez-en-objective-c",
+            "book_link": "/book_files/200557-programmez-en-objective-c.pdf",
+            "thumbnail_link": "/thumbnails/200557-programmez-en-objective-c.pdf.png"
+        },
+        {
+            "title": "Programmez en orient\u00e9 objet en PHP",
+            "size": 6.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php",
+            "book_link": "/book_files/147180-programmez-en-oriente-objet-en-php.pdf",
+            "thumbnail_link": "/thumbnails/147180-programmez-en-oriente-objet-en-php.pdf.png"
+        },
+        {
+            "title": "Programmez sur votre DS avec MicroLua",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1460761-programmez-sur-votre-ds-avec-microlua",
+            "book_link": "/book_files/174318-programmez-sur-votre-ds-avec-microlua.pdf",
+            "thumbnail_link": "/thumbnails/174318-programmez-sur-votre-ds-avec-microlua.pdf.png"
+        },
+        {
+            "title": "Propulsez votre site avec WordPress",
+            "size": 3.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1891206-propulsez-votre-site-avec-wordpress",
+            "book_link": "/book_files/785326-propulsez-votre-site-avec-wordpress.pdf",
+            "thumbnail_link": "/thumbnails/785326-propulsez-votre-site-avec-wordpress.pdf.png"
+        },
+        {
+            "title": "PyGTK",
+            "size": 3.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1343806-pygtk",
+            "book_link": "/book_files/93860-pygtk.pdf",
+            "thumbnail_link": "/thumbnails/93860-pygtk.pdf.png"
+        },
+        {
+            "title": "[Qt] Bien utiliser QtXml",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1219426-qt-bien-utiliser-qtxml",
+            "book_link": "/book_files/212297-qt-bien-utiliser-qtxml.pdf",
+            "thumbnail_link": "/thumbnails/212297-qt-bien-utiliser-qtxml.pdf.png"
+        },
+        {
+            "title": "[Qt] Compilez facilement sous Linux !",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1136956-qt-compilez-facilement-sous-linux",
+            "book_link": "/book_files/34142-qt-compilez-facilement-sous-linux.pdf",
+            "thumbnail_link": "/thumbnails/34142-qt-compilez-facilement-sous-linux.pdf.png"
+        },
+        {
+            "title": "Qt - Cr\u00e9ation de plugins",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1205011-qt-creation-de-plugins",
+            "book_link": "/book_files/203039-qt-creation-de-plugins.pdf",
+            "thumbnail_link": "/thumbnails/203039-qt-creation-de-plugins.pdf.png"
+        },
+        {
+            "title": "Qt : Quelques fonctionnalit\u00e9s non-GUI",
+            "size": 1.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1391201-qt-quelques-fonctionnalites-non-gui",
+            "book_link": "/book_files/382111-qt-quelques-fonctionnalites-non-gui.pdf",
+            "thumbnail_link": "/thumbnails/382111-qt-quelques-fonctionnalites-non-gui.pdf.png"
+        },
+        {
+            "title": "Qu'est-ce que le Responsive Web Design ?",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1304581-quest-ce-que-le-responsive-web-design",
+            "book_link": "/book_files/760730-qu-est-ce-que-le-responsive-web-design.pdf",
+            "thumbnail_link": "/thumbnails/760730-qu-est-ce-que-le-responsive-web-design.pdf.png"
+        },
+        {
+            "title": "R\u00e9alisation d'un overview",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1223971-realisation-dun-overview",
+            "book_link": "/book_files/512940-realisation-d-un-overview.pdf",
+            "thumbnail_link": "/thumbnails/512940-realisation-d-un-overview.pdf.png"
+        },
+        {
+            "title": "R\u00e9aliser un triple boot sur un MacBook Pro 8",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1303341-realiser-un-triple-boot-sur-un-macbook-pro-8",
+            "book_link": "/book_files/725028-realiser-un-triple-boot-sur-un-macbook-pro-8.pdf",
+            "thumbnail_link": "/thumbnails/725028-realiser-un-triple-boot-sur-un-macbook-pro-8.pdf.png"
+        },
+        {
+            "title": "R\u00e9alisez votre jeu vid\u00e9o avec UDK",
+            "size": 11.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1517576-realisez-votre-jeu-video-avec-udk",
+            "book_link": "/book_files/525477-realisez-votre-jeu-video-avec-udk.pdf",
+            "thumbnail_link": "/thumbnails/525477-realisez-votre-jeu-video-avec-udk.pdf.png"
+        },
+        {
+            "title": "Recr\u00e9ez le style d'Aero avec The GIMP !",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1230971-recreez-le-style-daero-avec-the-gimp",
+            "book_link": "/book_files/268795-recreez-le-style-d-aero-avec-the-gimp.pdf",
+            "thumbnail_link": "/thumbnails/268795-recreez-le-style-d-aero-avec-the-gimp.pdf.png"
+        },
+        {
+            "title": "R\u00e9cup\u00e9rer des fichiers apr\u00e8s un vidage de la corbeille",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1123651-recuperer-des-fichiers-apres-un-vidage-de-la-corbeille",
+            "book_link": "/book_files/51729-recuperer-des-fichiers-apres-un-vidage-de-la-corbeille.pdf",
+            "thumbnail_link": "/thumbnails/51729-recuperer-des-fichiers-apres-un-vidage-de-la-corbeille.pdf.png"
+        },
+        {
+            "title": "R\u00e9diger correctement un Cahier des Charges",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1133481-rediger-correctement-un-cahier-des-charges",
+            "book_link": "/book_files/36969-rediger-correctement-un-cahier-des-charges.pdf",
+            "thumbnail_link": "/thumbnails/36969-rediger-correctement-un-cahier-des-charges.pdf.png"
+        },
+        {
+            "title": "R\u00e9diger en japonais avec LaTeX",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1249406-rediger-en-japonais-avec-latex",
+            "book_link": "/book_files/334012-rediger-en-japonais-avec-latex.pdf",
+            "thumbnail_link": "/thumbnails/334012-rediger-en-japonais-avec-latex.pdf.png"
+        },
+        {
+            "title": "R\u00e9digez des documents de qualit\u00e9 avec LaTeX",
+            "size": 7.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1617396-redigez-des-documents-de-qualite-avec-latex",
+            "book_link": "/book_files/258577-redigez-des-documents-de-qualite-avec-latex.pdf",
+            "thumbnail_link": "/thumbnails/258577-redigez-des-documents-de-qualite-avec-latex.pdf.png"
+        },
+        {
+            "title": "R\u00e9digez en Markdown !",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown",
+            "book_link": "/book_files/757810-redigez-en-markdown.pdf",
+            "thumbnail_link": "/thumbnails/757810-redigez-en-markdown.pdf.png"
+        },
+        {
+            "title": "R\u00e9digez facilement des documents avec Word",
+            "size": 29.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1438346-redigez-facilement-des-documents-avec-word",
+            "book_link": "/book_files/417000-redigez-facilement-des-documents-avec-word.pdf",
+            "thumbnail_link": "/thumbnails/417000-redigez-facilement-des-documents-avec-word.pdf.png"
+        },
+        {
+            "title": "register_globals et \u00e9crasement de donn\u00e9es",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1164396-register-globals-et-ecrasement-de-donnees",
+            "book_link": "/book_files/56192-register-globals-et-ecrasement-de-donnees.pdf",
+            "thumbnail_link": "/thumbnails/56192-register-globals-et-ecrasement-de-donnees.pdf.png"
+        },
+        {
+            "title": "R\u00e9gler les probl\u00e8mes de collisions",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1093146-regler-les-problemes-de-collisions",
+            "book_link": "/book_files/34348-regler-les-problemes-de-collisions.pdf",
+            "thumbnail_link": "/thumbnails/34348-regler-les-problemes-de-collisions.pdf.png"
+        },
+        {
+            "title": "Rendus optimis\u00e9s : DL, VA, VBO",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1326791-rendus-optimises-dl-va-vbo",
+            "book_link": "/book_files/3872-rendus-optimises-dl-va-vbo.pdf",
+            "thumbnail_link": "/thumbnails/3872-rendus-optimises-dl-va-vbo.pdf.png"
+        },
+        {
+            "title": "Reprenez le contr\u00f4le \u00e0 l'aide de Linux !",
+            "size": 15.8,
+            "course_link": "https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux",
+            "book_link": "/book_files/12827-reprenez-le-controle-a-l-aide-de-linux.pdf",
+            "thumbnail_link": "/thumbnails/12827-reprenez-le-controle-a-l-aide-de-linux.pdf.png"
+        },
+        {
+            "title": "RPG Maker XP",
+            "size": 6.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1409656-rpg-maker-xp",
+            "book_link": "/book_files/9761-rpg-maker-xp.pdf",
+            "thumbnail_link": "/thumbnails/9761-rpg-maker-xp.pdf.png"
+        },
+        {
+            "title": "S\u00e9curiser son serveur Linux",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1197906-securiser-son-serveur-linux",
+            "book_link": "/book_files/165981-securiser-son-serveur-linux.pdf",
+            "thumbnail_link": "/thumbnails/165981-securiser-son-serveur-linux.pdf.png"
+        },
+        {
+            "title": "S\u00e9curisez vos mots de passe avec Lastpass",
+            "size": 2.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1305286-securisez-vos-mots-de-passe-avec-lastpass",
+            "book_link": "/book_files/766839-securisez-vos-mots-de-passe-avec-lastpass.pdf",
+            "thumbnail_link": "/thumbnails/766839-securisez-vos-mots-de-passe-avec-lastpass.pdf.png"
+        },
+        {
+            "title": "Sensibilisation sur le choix d'un mot de passe",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1199166-sensibilisation-sur-le-choix-dun-mot-de-passe",
+            "book_link": "/book_files/174984-sensibilisation-sur-le-choix-d-un-mot-de-passe.pdf",
+            "thumbnail_link": "/thumbnails/174984-sensibilisation-sur-le-choix-d-un-mot-de-passe.pdf.png"
+        },
+        {
+            "title": "S\u00e9rialisation avec Boost",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1255516-serialisation-avec-boost",
+            "book_link": "/book_files/281267-serialisation-avec-boost.pdf",
+            "thumbnail_link": "/thumbnails/281267-serialisation-avec-boost.pdf.png"
+        },
+        {
+            "title": "Simplifiez vos d\u00e9veloppements JavaScript avec jQuery",
+            "size": 8.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1631636-simplifiez-vos-developpements-javascript-avec-jquery",
+            "book_link": "/book_files/689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf",
+            "thumbnail_link": "/thumbnails/689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf.png"
+        },
+        {
+            "title": "Simplifiez-vous la vie avec LESS",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1281906-simplifiez-vous-la-vie-avec-less",
+            "book_link": "/book_files/501194-simplifiez-vous-la-vie-avec-less.pdf",
+            "thumbnail_link": "/thumbnails/501194-simplifiez-vous-la-vie-avec-less.pdf.png"
+        },
+        {
+            "title": "Site \u00e9pingl\u00e9 avec Internet Explorer",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/348605-site-epingle-avec-internet-explorer",
+            "book_link": "/book_files/726998-site-epingle-avec-internet-explorer.pdf",
+            "thumbnail_link": "/thumbnails/726998-site-epingle-avec-internet-explorer.pdf.png"
+        },
+        {
+            "title": "Space Art sur Photoshop",
+            "size": 9.3,
+            "course_link": "https://openclassrooms.com/fr/courses/404460-space-art-sur-photoshop",
+            "book_link": "/book_files/321821-space-art-sur-photoshop.pdf",
+            "thumbnail_link": "/thumbnails/321821-space-art-sur-photoshop.pdf.png"
+        },
+        {
+            "title": "[SQL] S\u00e9lection multi-tables",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1129521-sql-selection-multi-tables",
+            "book_link": "/book_files/32078-sql-selection-multi-tables.pdf",
+            "thumbnail_link": "/thumbnails/32078-sql-selection-multi-tables.pdf.png"
+        },
+        {
+            "title": "Stocker et s\u00e9rialiser des objets avec Qt",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1166416-stocker-et-serialiser-des-objets-avec-qt",
+            "book_link": "/book_files/103409-stocker-et-serialiser-des-objets-avec-qt.pdf",
+            "thumbnail_link": "/thumbnails/103409-stocker-et-serialiser-des-objets-avec-qt.pdf.png"
+        },
+        {
+            "title": "Stocker les sessions dans votre base de donn\u00e9es",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1176511-stocker-les-sessions-dans-votre-base-de-donnees",
+            "book_link": "/book_files/31976-stocker-les-sessions-dans-votre-base-de-donnees.pdf",
+            "thumbnail_link": "/thumbnails/31976-stocker-les-sessions-dans-votre-base-de-donnees.pdf.png"
+        },
+        {
+            "title": "Stop aux pourriels (spams)",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1125561-stop-aux-pourriels-spams",
+            "book_link": "/book_files/82864-stop-aux-pourriels-spams.pdf",
+            "thumbnail_link": "/thumbnails/82864-stop-aux-pourriels-spams.pdf.png"
+        },
+        {
+            "title": "Structurez vos donn\u00e9es avec XML",
+            "size": 3.1,
+            "course_link": "https://openclassrooms.com/fr/courses/1766341-structurez-vos-donnees-avec-xml",
+            "book_link": "/book_files/664330-structurez-vos-donnees-avec-xml.pdf",
+            "thumbnail_link": "/thumbnails/664330-structurez-vos-donnees-avec-xml.pdf.png"
+        },
+        {
+            "title": "Stylisez votre site avec CSS3 !",
+            "size": 1.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1615271-stylisez-votre-site-avec-css3",
+            "book_link": "/book_files/548986-stylisez-votre-site-avec-css3.pdf",
+            "thumbnail_link": "/thumbnails/548986-stylisez-votre-site-avec-css3.pdf.png"
+        },
+        {
+            "title": "Synth\u00e8se sonore avec Csound",
+            "size": 1.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1411736-synthese-sonore-avec-csound",
+            "book_link": "/book_files/221445-synthese-sonore-avec-csound.pdf",
+            "thumbnail_link": "/thumbnails/221445-synthese-sonore-avec-csound.pdf.png"
+        },
+        {
+            "title": "Tableaux, pointeurs et allocation dynamique",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1252806-tableaux-pointeurs-et-allocation-dynamique",
+            "book_link": "/book_files/321485-tableaux-pointeurs-et-allocation-dynamique.pdf",
+            "thumbnail_link": "/thumbnails/321485-tableaux-pointeurs-et-allocation-dynamique.pdf.png"
+        },
+        {
+            "title": "Tours de magie math\u00e9matiques",
+            "size": 1.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1613986-tours-de-magie-mathematiques",
+            "book_link": "/book_files/697154-tours-de-magie-mathematiques.pdf",
+            "thumbnail_link": "/thumbnails/697154-tours-de-magie-mathematiques.pdf.png"
+        },
+        {
+            "title": "Tout sur l\u2019OpenSim",
+            "size": 5.3,
+            "course_link": "https://openclassrooms.com/fr/courses/441950-tout-sur-l-opensim",
+            "book_link": "/book_files/186811-tout-sur-l-opensim.pdf",
+            "thumbnail_link": "/thumbnails/186811-tout-sur-l-opensim.pdf.png"
+        },
+        {
+            "title": "[TP] Pendu",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1201831-tp-pendu",
+            "book_link": "/book_files/194478-tp-pendu.pdf",
+            "thumbnail_link": "/thumbnails/194478-tp-pendu.pdf.png"
+        },
+        {
+            "title": "Traitez des textes avec Word",
+            "size": 20.9,
+            "course_link": "https://openclassrooms.com/fr/courses/821436-traitez-des-textes-avec-word",
+            "book_link": "/book_files/385327-traitez-des-textes-avec-word.pdf",
+            "thumbnail_link": "/thumbnails/385327-traitez-des-textes-avec-word.pdf.png"
+        },
+        {
+            "title": "Triggers et vues mat\u00e9rialis\u00e9es (MySQL)",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1223191-triggers-et-vues-materialisees-mysql",
+            "book_link": "/book_files/227634-triggers-et-vues-materialisees-mysql.pdf",
+            "thumbnail_link": "/thumbnails/227634-triggers-et-vues-materialisees-mysql.pdf.png"
+        },
+        {
+            "title": "Un anti brute-force l\u00e9ger et rapide",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1174991-un-anti-brute-force-leger-et-rapide",
+            "book_link": "/book_files/61380-un-anti-brute-force-leger-et-rapide.pdf",
+            "thumbnail_link": "/thumbnails/61380-un-anti-brute-force-leger-et-rapide.pdf.png"
+        },
+        {
+            "title": "Un compte \u00e0 rebours en PHP",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1227586-un-compte-a-rebours-en-php",
+            "book_link": "/book_files/195423-un-compte-a-rebours-en-php.pdf",
+            "thumbnail_link": "/thumbnails/195423-un-compte-a-rebours-en-php.pdf.png"
+        },
+        {
+            "title": "Un favicon pour votre site",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1060976-un-favicon-pour-votre-site",
+            "book_link": "/book_files/36353-un-favicon-pour-votre-site.pdf",
+            "thumbnail_link": "/thumbnails/36353-un-favicon-pour-votre-site.pdf.png"
+        },
+        {
+            "title": "Un karaok\u00e9 avec Ultrastar",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/453388-un-karaoke-avec-ultrastar",
+            "book_link": "/book_files/82924-un-karaoke-avec-ultrastar.pdf",
+            "thumbnail_link": "/thumbnails/82924-un-karaoke-avec-ultrastar.pdf.png"
+        },
+        {
+            "title": "Un lecteur MP3 en flash",
+            "size": 0.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1125291-un-lecteur-mp3-en-flash",
+            "book_link": "/book_files/35916-un-lecteur-mp3-en-flash.pdf",
+            "thumbnail_link": "/thumbnails/35916-un-lecteur-mp3-en-flash.pdf.png"
+        },
+        {
+            "title": "Un livre d'or",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1221071-un-livre-dor",
+            "book_link": "/book_files/14547-un-livre-d-or.pdf",
+            "thumbnail_link": "/thumbnails/14547-un-livre-d-or.pdf.png"
+        },
+        {
+            "title": "Un menu horizontal",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1087906-un-menu-horizontal",
+            "book_link": "/book_files/37440-un-menu-horizontal.pdf",
+            "thumbnail_link": "/thumbnails/37440-un-menu-horizontal.pdf.png"
+        },
+        {
+            "title": "Un peu de physique en ActionScript 3",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1281261-un-peu-de-physique-en-actionscript-3",
+            "book_link": "/book_files/527591-un-peu-de-physique-en-actionscript-3.pdf",
+            "thumbnail_link": "/thumbnails/527591-un-peu-de-physique-en-actionscript-3.pdf.png"
+        },
+        {
+            "title": "Un site web dynamique avec jQuery !",
+            "size": 3.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery",
+            "book_link": "/book_files/659477-un-site-web-dynamique-avec-jquery.pdf",
+            "thumbnail_link": "/thumbnails/659477-un-site-web-dynamique-avec-jquery.pdf.png"
+        },
+        {
+            "title": "Un syst\u00e8me d'affiliation pour votre site",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1123481-un-systeme-daffiliation-pour-votre-site",
+            "book_link": "/book_files/30750-un-systeme-d-affiliation-pour-votre-site.pdf",
+            "thumbnail_link": "/thumbnails/30750-un-systeme-d-affiliation-pour-votre-site.pdf.png"
+        },
+        {
+            "title": "Un syst\u00e8me d'options",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1204021-un-systeme-doptions",
+            "book_link": "/book_files/200132-un-systeme-d-options.pdf",
+            "thumbnail_link": "/thumbnails/200132-un-systeme-d-options.pdf.png"
+        },
+        {
+            "title": "Un syst\u00e8me de cache simple",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1097141-un-systeme-de-cache-simple",
+            "book_link": "/book_files/31845-un-systeme-de-cache-simple.pdf",
+            "thumbnail_link": "/thumbnails/31845-un-systeme-de-cache-simple.pdf.png"
+        },
+        {
+            "title": "Un syst\u00e8me de news sans base de donn\u00e9es gr\u00e2ce \u00e0 serialize et unserialize",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1229556-un-systeme-de-news-sans-base-de-donnees-grace-a-serialize-et-unserialize",
+            "book_link": "/book_files/172662-un-systeme-de-news-sans-base-de-donnees-grace-a-serialize-et-unserialize.pdf",
+            "thumbnail_link": "/thumbnails/172662-un-systeme-de-news-sans-base-de-donnees-grace-a-serialize-et-unserialize.pdf.png"
+        },
+        {
+            "title": "Un wiki avec Yaws en 13 minutes 37 secondes",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1161606-un-wiki-avec-yaws-en-13-minutes-37-secondes",
+            "book_link": "/book_files/35200-un-wiki-avec-yaws-en-13-minutes-37-secondes.pdf",
+            "thumbnail_link": "/thumbnails/35200-un-wiki-avec-yaws-en-13-minutes-37-secondes.pdf.png"
+        },
+        {
+            "title": "Une map avec Hammer !",
+            "size": 8.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1471751-une-map-avec-hammer",
+            "book_link": "/book_files/13280-une-map-avec-hammer.pdf",
+            "thumbnail_link": "/thumbnails/13280-une-map-avec-hammer.pdf.png"
+        },
+        {
+            "title": "Une musique professionnelle avec Reason",
+            "size": 4.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1497006-une-musique-professionnelle-avec-reason",
+            "book_link": "/book_files/315805-une-musique-professionnelle-avec-reason.pdf",
+            "thumbnail_link": "/thumbnails/315805-une-musique-professionnelle-avec-reason.pdf.png"
+        },
+        {
+            "title": "Une zForm avec Mootools",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1263856-une-zform-avec-mootools",
+            "book_link": "/book_files/517398-une-zform-avec-mootools.pdf",
+            "thumbnail_link": "/thumbnails/517398-une-zform-avec-mootools.pdf.png"
+        },
+        {
+            "title": "Unity3D : Cr\u00e9ation d'un menu avec curseur personnalis\u00e9",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1303006-unity3d-creation-dun-menu-avec-curseur-personnalise",
+            "book_link": "/book_files/712435-unity3d-creation-d-un-menu-avec-curseur-personnalise.pdf",
+            "thumbnail_link": "/thumbnails/712435-unity3d-creation-d-un-menu-avec-curseur-personnalise.pdf.png"
+        },
+        {
+            "title": "Upload de fichiers par formulaire",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1085676-upload-de-fichiers-par-formulaire",
+            "book_link": "/book_files/37674-upload-de-fichiers-par-formulaire.pdf",
+            "thumbnail_link": "/thumbnails/37674-upload-de-fichiers-par-formulaire.pdf.png"
+        },
+        {
+            "title": "Utilisation avanc\u00e9e des listes en Python",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/1206331-utilisation-avancee-des-listes-en-python",
+            "book_link": "/book_files/213097-utilisation-avancee-des-listes-en-python.pdf",
+            "thumbnail_link": "/thumbnails/213097-utilisation-avancee-des-listes-en-python.pdf.png"
+        },
+        {
+            "title": "Utilisation d'un moteur de templates : Talus' TPL",
+            "size": 0.4,
+            "course_link": "https://openclassrooms.com/fr/courses/1192271-utilisation-dun-moteur-de-templates-talus-tpl",
+            "book_link": "/book_files/31259-utilisation-d-un-moteur-de-templates-talus-tpl.pdf",
+            "thumbnail_link": "/thumbnails/31259-utilisation-d-un-moteur-de-templates-talus-tpl.pdf.png"
+        },
+        {
+            "title": "Utilisation de Twig, un moteur de templates !",
+            "size": 0.3,
+            "course_link": "https://openclassrooms.com/fr/courses/442495-utilisation-de-twig-un-moteur-de-templates",
+            "book_link": "/book_files/432524-utilisation-de-twig-un-moteur-de-templates.pdf",
+            "thumbnail_link": "/thumbnails/432524-utilisation-de-twig-un-moteur-de-templates.pdf.png"
+        },
+        {
+            "title": "Utiliser l'API MySQL dans vos programmes",
+            "size": 0.9,
+            "course_link": "https://openclassrooms.com/fr/courses/1101991-utiliser-lapi-mysql-dans-vos-programmes",
+            "book_link": "/book_files/34984-utiliser-l-api-mysql-dans-vos-programmes.pdf",
+            "thumbnail_link": "/thumbnails/34984-utiliser-l-api-mysql-dans-vos-programmes.pdf.png"
+        },
+        {
+            "title": "Utiliser l'\u00e9cran graphique de la TI",
+            "size": 1.6,
+            "course_link": "https://openclassrooms.com/fr/courses/1167846-utiliser-lecran-graphique-de-la-ti",
+            "book_link": "/book_files/110719-utiliser-l-ecran-graphique-de-la-ti.pdf",
+            "thumbnail_link": "/thumbnails/110719-utiliser-l-ecran-graphique-de-la-ti.pdf.png"
+        },
+        {
+            "title": "Utiliser la zone de notifications",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/577156-utiliser-la-zone-de-notifications",
+            "book_link": "/book_files/388625-utiliser-la-zone-de-notifications.pdf",
+            "thumbnail_link": "/thumbnails/388625-utiliser-la-zone-de-notifications.pdf.png"
+        },
+        {
+            "title": "Utiliser le protocole IRC avec PHP",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1180476-utiliser-le-protocole-irc-avec-php",
+            "book_link": "/book_files/157977-utiliser-le-protocole-irc-avec-php.pdf",
+            "thumbnail_link": "/thumbnails/157977-utiliser-le-protocole-irc-avec-php.pdf.png"
+        },
+        {
+            "title": "Utiliser Qt avec Visual Studio 2010",
+            "size": 1,
+            "course_link": "https://openclassrooms.com/fr/courses/1185461-utiliser-qt-avec-visual-studio-2010",
+            "book_link": "/book_files/36553-utiliser-qt-avec-visual-studio-2010.pdf",
+            "thumbnail_link": "/thumbnails/36553-utiliser-qt-avec-visual-studio-2010.pdf.png"
+        },
+        {
+            "title": "Utilisez MacPorts !",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1217676-utilisez-macports",
+            "book_link": "/book_files/199161-utilisez-macports.pdf",
+            "thumbnail_link": "/thumbnails/199161-utilisez-macports.pdf.png"
+        },
+        {
+            "title": "[Visual C#] Utiliser les param\u00e8tres d'application",
+            "size": 0.5,
+            "course_link": "https://openclassrooms.com/fr/courses/1222906-visual-c-utiliser-les-parametres-dapplication",
+            "book_link": "/book_files/395955-visual-c-utiliser-les-parametres-d-application.pdf",
+            "thumbnail_link": "/thumbnails/395955-visual-c-utiliser-les-parametres-d-application.pdf.png"
+        },
+        {
+            "title": "Votre site PHP (presque) complet : architecture MVC et bonnes pratiques",
+            "size": 0.8,
+            "course_link": "https://openclassrooms.com/fr/courses/1325466-votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques",
+            "book_link": "/book_files/88620-votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques.pdf",
+            "thumbnail_link": "/thumbnails/88620-votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques.pdf.png"
+        },
+        {
+            "title": "Warcraft III et les cin\u00e9matiques",
+            "size": 0.7,
+            "course_link": "https://openclassrooms.com/fr/courses/1332651-warcraft-iii-et-les-cinematiques",
+            "book_link": "/book_files/120561-warcraft-iii-et-les-cinematiques.pdf",
+            "thumbnail_link": "/thumbnails/120561-warcraft-iii-et-les-cinematiques.pdf.png"
+        },
+        {
+            "title": "World of Goo : La cr\u00e9ation de niveaux avec WooGLE",
+            "size": 0.2,
+            "course_link": "https://openclassrooms.com/fr/courses/1233346-world-of-goo-la-creation-de-niveaux-avec-woogle",
+            "book_link": "/book_files/263183-world-of-goo-la-creation-de-niveaux-avec-woogle.pdf",
+            "thumbnail_link": "/thumbnails/263183-world-of-goo-la-creation-de-niveaux-avec-woogle.pdf.png"
+        }
+    ]
+}

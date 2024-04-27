@@ -14,8 +14,8 @@ class Tag extends Model
         'name'
     ];
 
-    public function tags(): BelongsToMany{
-        return $this->belongsToMany(Book::class,'tag_book');
+    public function books(): BelongsToMany{
+        return $this->belongsToMany(Book::class,'book_tag');
     }
     public function getSlug(): string{
         return Str::slug($this->title);

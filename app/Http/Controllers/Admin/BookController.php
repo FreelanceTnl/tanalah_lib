@@ -7,6 +7,7 @@ use App\Http\Requests\BookFormRequest;
 use App\Models\Book;
 use App\Models\Publisher;
 use App\Models\Tag;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Storage;
 
 class BookController extends Controller
@@ -16,7 +17,7 @@ class BookController extends Controller
      */
     public function index()
     {
-        $books=Book::with('publisher','tags')->orderBy('created_at','desc')->paginate(20);
+        $books=Book::with('publisher','tags')->orderBy('name','asc')->paginate(20);
         return view('pages.admin.books.index',[
             'books'=>$books
         ]);
@@ -39,18 +40,8 @@ class BookController extends Controller
      * Store a newly created resource in storage.
      */
     public function store(BookFormRequest $request)
-    {
-        $thumbnail_link = $request->file('thumbnail')->store('thumbnails','public');
-        $book_link = $request->file('book')->store('books','public');
-        $book = Book::create([
-            'title'=>$request->title,
-            'description'=>$request->description,
-            'thumbnail'=>$thumbnail_link,
-            'publisher_id'=>$request->publisher,
-            'link'=>$book_link,
-            'page_number'=>$request->integer('page_number'),
-            'available'=>$request->integer('available')
-        ]);
+    {   
+        $book = Book::create($request->validated());
         $book->tags()->sync($request->validated('tags'));
         return to_route('admin.books.index')->with('success','Le Livre a été créé avec succes.');
     }
@@ -80,13 +71,7 @@ class BookController extends Controller
      */
     public function update(BookFormRequest $request,Book $book)
     {
-        $book->update([
-            'title'=>$request->title,
-            'description'=>$request->description,
-            'publisher_id'=>$request->integer('publisher'),
-            'page_number'=>$request->integer('page_number'),
-            'available'=>$request->integer('available')
-        ]);
+        $book->update($request->validated());
         $book->tags()->sync($request->validated('tags'));
         return to_route('admin.books.index')->with('success','Le Livre a été modifié avec succes.');
     }

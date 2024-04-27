@@ -1,4 +1,4 @@
-<button class="btn btn-success flex-shrink-0" type="button">
-    <i class="fas fa-download"></i>
-    Télécharger
-</button>
+    <a class="btn btn-success flex-shrink-0" target="_blank" href="{{$book->book_link}}" download>
+        <i class="fas fa-download"></i>
+        Télécharger
+    </a>

@@ -22,23 +22,15 @@ class BookFormRequest extends FormRequest
      */
     public function rules(): array
     {
-        if(Request::isMethod('post')){
         return [
             'title'=>['required','string','min:3'],
-            'description'=>['required','string','min:8'],
-            'publisher'=>['integer','nullable'],
+            'publisher_id'=>['integer','nullable'],
             'tags'=>[],
-            'thumbnail'=>['required','file','image','extensions:jpg,jpeg,png','max:2048'],
-            'book'=>['required','file','extensions:pdf','mimetypes:application/pdf','max:32768'],
+            'size'=>['numeric'],
+            'thumbnail_link'=>['required','string'],
+            'book_link'=>['required','string'],
+            'available'=>['boolean']
         ];
-        }else{
-            return [
-                'title'=>['required','min:3'],
-                'description'=>['required','min:8'],
-                'publisher'=>['numeric','nullable'],
-                'tags'=>[],
-            ];
-        }
 
     }
 }

@@ -27,15 +27,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/"><i class="fa fa-house"></i></a></li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Livres</a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="{{route('books.index')}}">Tous les Livres</a></li>
-                                <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="#!">Catégories</a></li>
-                                <li><a class="dropdown-item" href="#!">Auteurs</a></li>
-                            </ul>
-                        </li>
+                        <li class="nav-item"><a class="nav-link" href="{{route('books.index')}}">La Bibliothèque</a></li>
                         <li class="nav-item"><a class="nav-link" href="#!">A Propos</a></li>
                     </ul>
                     <div class="d-flex">

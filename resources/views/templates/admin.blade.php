@@ -23,7 +23,13 @@
             </a>
             <!-- Sidebar Toggle-->
             <button class="btn btn-link btn-sm " id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
-            
+            <div class="navbar-nav ms-auto mx-5 d-none d-md-flex">
+                <form action="{{route('logout')}}" method="post">
+                    @csrf
+                    @method('delete')
+                    <button class="btn btn-outline-light">Se Deconnecter &nbsp;<i class="fas fa-arrow-right-from-bracket"></i></button>
+                </form>
+            </div>
         </nav>
         <div id="layoutSidenav">
             <div id="layoutSidenav_content">

@@ -14,11 +14,10 @@ class Book extends Model
 
     protected $fillable = [
         'title',
-        'description',
-        'thumbnail',
-        'link',
+        'thumbnail_link',
+        'book_link',
         'publisher_id',
-        'page_number',
+        'size',
         'available'
     ];
     
@@ -26,7 +25,7 @@ class Book extends Model
         return $this->belongsTo(Publisher::class);
     }
     public function tags(): BelongsToMany{
-        return $this->belongsToMany(Tag::class,'tag_book');
+        return $this->belongsToMany(Tag::class,'book_tag');
     }
     public function getSlug(): string{
         return Str::slug($this->title);

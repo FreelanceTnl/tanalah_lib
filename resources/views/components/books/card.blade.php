@@ -1,14 +1,16 @@
-<div class="col mb-5">
-    <div class="card h-100">
+<div class="col mb-4">
+    <div class="card border-success h-100">
         <!-- Product image-->
-        <img class="card-img-top" src="{{ asset('storage/'.$book->thumbnail) }}" alt="{{$book->title}}" />
+        <div class="card-header bg-secondary">
+        <img class="card-img" src="{{ $book->thumbnail_link }}" alt="{{$book->title}}" />
+        </div>
         <!-- Product details-->
         <div class="card-body p-4">
             <div class="text-center">
-                <!-- Product name-->
-                <h5 class="fw-bolder"><a class="text-dark text-decoration-none" href="{{ route('books.show',['book'=>$book->id,'slug'=>$book->getSlug()]) }}">{{$book->title}}</a></h5>
-                <!-- Product price-->
-                <a class="text-secondary" href="{{$book->publisher->link}}">{{$book->publisher->name}}</a>
+                <h6 class="fw-semibold"><a class="text-dark text-decoration-none" href="{{ route('books.show',['book'=>$book->id,'slug'=>$book->getSlug()]) }}">{{$book->title}}</a></h6>
+                <a class="text-muted text-decoration-none" href="{{$book->publisher->link}}">                    
+                    <img class="rounded" src="{{$book->publisher->logo}}" width="30" height="30" alt="">
+                    {{$book->publisher->name}}</a>
             </div>
         </div>
         <!-- Product actions-->

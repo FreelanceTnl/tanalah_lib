@@ -7,8 +7,8 @@
         <thead>
             <tr>
                 <th>Titre</th>
-                <th>Auteur</th>
-                <th>Nombre de pages</th>
+                <th class="d-none d-md-table-cell">Auteur</th>
+                <th class="d-none d-md-table-cell">Taille</th>
                 <th class="text-end">
                     <a href="{{ route('admin.books.create') }}" class="btn btn-primary"> + Ajouter un Livre</a>
                 </th>
@@ -18,8 +18,8 @@
             @foreach($books as $book)
                 <tr>
                     <td>{{ $book->title }}</td>
-                    <td><a href="{{ $book->publisher?->link}}">{{ $book->publisher?->name }}</a></td>
-                    <td>{{ $book->page_number }}</td>
+                    <td class="d-none d-md-table-cell"><a href="{{ $book->publisher?->link}}">{{ $book->publisher?->name }}</a></td>
+                    <td class="d-none d-md-table-cell">{{ $book->page_number }}</td>
                     <td>
                         <div class="d-flex gap-2 w-100 justify-content-end">
                             <a href="{{ route('admin.books.edit', $book) }}" class="btn btn-primary">Editer</a>

@@ -11,6 +11,7 @@ class TagSeeder extends Seeder
      * Run the database seeds.
      */
     protected $tags=[
+        '*',
         'C',
         'C++',
         'C#',

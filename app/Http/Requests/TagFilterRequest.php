@@ -3,9 +3,8 @@
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
-use Illuminate\Support\Facades\Request;
 
-class PublisherFormRequest extends FormRequest
+class TagFilterRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -23,10 +22,8 @@ class PublisherFormRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'name'=>['required','min:3'],
-            'logo'=>[],
-            'link'=>[],
-        ];
-
+            'tag'=>['numeric'],
+            'keyword'=>['string']
+        ]; 
     }
 }

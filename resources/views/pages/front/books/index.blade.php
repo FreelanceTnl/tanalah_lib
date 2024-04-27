@@ -4,17 +4,16 @@
 
 @section('content')
 <!-- Section-->
-<section class="py-5">
+<section class="py-3 px-5">
     <div class="container px-4 px-lg-5 ">
-        <h2 class="fw-bold">Tout les Livres</h2>
+        <h2 class="fw-bold">La Bibliothèque</h2>
         <hr>
-        <div class="row justify-content-start {{$books->isEmpty() ? '' : 'gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4'}}">
-            @forelse($books as $book)
-            @include('components.books.card')
-            @empty
-            <h5>Aucun Livre n'a été trouvé</h5>
-            @endforelse
-        </div>
+        @include('components.searchform')
+        <hr>
+        @include('components.books.tags')
+        <hr>
+        @include('components.books.bookslist')
     </div>
+    {{$books->onEachSide(2)->links()}}
 </section>
 @endsection

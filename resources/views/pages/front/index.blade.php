@@ -3,26 +3,25 @@
 @section('title','Accueil')
 
 @section('content')<!-- Header-->
-<header class="bg-dark py-5">
-    <div class="container px-4 px-lg-5 my-5">
+<header class="bg-dark py-3">
+    <div class="container px-4 px-lg-5 my-3">
         <div class="text-center text-white">
+            <img src="http://localhost:8001/favicon.png" alt="" width="150" height="150">
             <h1 class="display-4 fw-bolder">{{__('Welcome to').' '.env('APP_NAME')}}</h1>
-            <p class="lead fw-normal text-white-50 mb-0">Une bibliothèque gratuite ouverte à tous</p>
+            <p class="lead fw-normal text-white-50 mb-0">Un Site de referencement de livres sur l'informatique</p>
         </div>
     </div>
 </header>
 <!-- Section-->
 <section class="py-5">
     <div class="container px-4 px-lg-5 ">
-        <h2 class="fw-bold">Derniers Livres</h2>
-        <hr>
-        <div class="row justify-content-start {{$books->isEmpty() ? '' : 'gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4'}}">
-            @forelse($books as $book)
-            @include('components.books.card')
-            @empty
-            <h5>Aucun Livre n'a été trouvé</h5>
-            @endforelse
+        <div class="mb-5">
+        @include('components.searchform')
         </div>
+        <hr>
+        @include('components.books.tags')
+        <hr>
+        @include('components.books.bookslist')
     </div>
 </section>
 @endsection
