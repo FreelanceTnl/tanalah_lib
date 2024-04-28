@@ -14,10 +14,9 @@ return new class extends Migration
         Schema::create('books', function (Blueprint $table) {
             $table->id();
             $table->string('title');
-            $table->longtext('description');
-            $table->string('thumbnail');
-            $table->string('link');
-            $table->integer('page_number');
+            $table->string('thumbnail_link');
+            $table->string('book_link');
+            $table->float('size');
             $table->boolean('available');
             $table->timestamps();
         });
@@ -28,6 +27,7 @@ return new class extends Migration
      */
     public function down(): void
     {
+        
         Schema::dropIfExists('books');
     }
 };

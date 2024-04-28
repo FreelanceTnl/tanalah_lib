@@ -14,6 +14,7 @@ return new class extends Migration
         Schema::create('publishers', function (Blueprint $table) {
             $table->id();
             $table->string('name');
+            $table->string('logo');
             $table->string('link');
             $table->timestamps();
         });
@@ -28,8 +29,5 @@ return new class extends Migration
     public function down(): void
     {
         Schema::dropIfExists('publishers');
-        Schema::table('books', function (Blueprint $table) {
-            $table->dropForeignIdFor(\App\Models\Publisher::class);
-        });
     }
 };

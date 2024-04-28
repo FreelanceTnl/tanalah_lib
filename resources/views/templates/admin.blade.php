@@ -7,18 +7,29 @@
         <meta name="description" content="" />
         <meta name="author" content="R.Toavina" />
         <title>{{ env('APP_NAME') }} - Administration</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="{{asset('favicon.png')}}" />
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/style.min.css" rel="stylesheet" />
         <link href="{{ asset('css/styles.min.css') }}" rel="stylesheet" />
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
         @yield('header-script')
     </head>
     <body class="sb-nav-fixed">
-        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-success">
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="/">{{ env('APP_NAME') }}</a>
+            <a class="navbar-brand ps-3" href="/">
+                <img src="{{asset('favicon.png')}}" width="30" height="30" alt="">
+                {{ env('APP_NAME') }}
+            </a>
             <!-- Sidebar Toggle-->
             <button class="btn btn-link btn-sm " id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
-            
+            <div class="navbar-nav ms-auto mx-5 d-none d-md-flex">
+                <form action="{{route('logout')}}" method="post">
+                    @csrf
+                    @method('delete')
+                    <button class="btn btn-outline-light">Se Deconnecter &nbsp;<i class="fas fa-arrow-right-from-bracket"></i></button>
+                </form>
+            </div>
         </nav>
         <div id="layoutSidenav">
             <div id="layoutSidenav_content">
@@ -73,10 +84,12 @@
                                 Liste des Tags
                             </a>
                             <hr>
-                            <a class="nav-link" href="/">
-                                <div class="sb-nav-link-icon"><i class="fas fa-arrow-right-from-bracket"></i></div>
-                                Se Deconnecter
-                            </a>
+                            
+                            <form action="{{route('logout')}}" method="post">
+                                @csrf
+                                @method('delete')
+                                <button class="nav-link btn btn-link">Se Deconnecter &nbsp;<i class="fas fa-arrow-right-from-bracket"></i></button>
+                            </form>
                         </div>
                     </div>
                 </nav>

@@ -24,6 +24,7 @@ class PublisherFormRequest extends FormRequest
     {
         return [
             'name'=>['required','min:3'],
+            'logo'=>[],
             'link'=>[],
         ];
 
