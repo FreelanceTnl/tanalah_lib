@@ -49,7 +49,7 @@
         
         <!-- Footer-->
         <footer class="footer mt-auto py-2 bg-dark">
-            <div class="d-flex align-items-center justify-content-between small px-5">
+            <div class="d-md-flex align-items-center justify-content-between small px-5">
                 <div class="text-muted">&copy; {{env('APP_NAME')}} 2024</div>
                 <div class="text-light">
                     +261 33 29 545 51 | ramamonjisoa.toavina@gmail.com
