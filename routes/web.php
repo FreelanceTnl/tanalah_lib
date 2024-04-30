@@ -16,7 +16,9 @@ use Illuminate\Support\Facades\Route;
 define('ID_REGEX', '[0-9]+');
 define('SLUG_REGEX', '[0-9a-z\-]+');
 
-Route::get('/', [\App\Http\Controllers\Front\HomeController::class,'index']);
+Route::get('/', [\App\Http\Controllers\Front\HomeController::class,'index'])->name('index');
+Route::get('/about', [\App\Http\Controllers\Front\HomeController::class,'about'])->name('about');
+Route::post('/about', [\App\Http\Controllers\Front\HomeController::class,'contact']);
 
 Route::prefix('books')->name('books.')->group(function (){
     Route::get('/',[\App\Http\Controllers\Front\BookController::class,'index'])->name('index');

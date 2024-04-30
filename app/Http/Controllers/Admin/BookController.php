@@ -17,7 +17,7 @@ class BookController extends Controller
      */
     public function index()
     {
-        $books=Book::with('publisher','tags')->orderBy('name','asc')->paginate(20);
+        $books=Book::with('publisher','tags')->orderBy('title','asc')->paginate(20);
         return view('pages.admin.books.index',[
             'books'=>$books
         ]);
