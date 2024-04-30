@@ -28,7 +28,7 @@
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="/"><i class="fa fa-house"></i></a></li>
                         <li class="nav-item"><a class="nav-link" href="{{route('books.index')}}">La Bibliothèque</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">A Propos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{route('about')}}">A Propos</a></li>
                     </ul>
                     <div class="d-flex">
                         @guest

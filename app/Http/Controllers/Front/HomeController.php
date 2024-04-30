@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Front;
 
 use App\Http\Controllers\Controller;
+use App\Http\Requests\ContactFormRequest;
 use App\Models\Book;
 use App\Models\Tag;
 use Illuminate\Http\Request;
@@ -19,5 +20,14 @@ class HomeController extends Controller
             'books'=>$books,
             'tags'=>$tags
         ]);
+    }
+    public function about(){
+        return view('pages.front.about',[
+        ]);
+    }
+
+    public function contact(ContactFormRequest $request){
+        $request->validated();
+        return to_route('about');
     }
 }
